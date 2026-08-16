@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T18:04:09Z",
+            "last_commit": "2026-08-15T23:40:52Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31261
+            "stars": 31265
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-02-16T14:07:07Z",
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25145
+            "stars": 25144
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-02T08:28:32Z",
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10481
+            "stars": 10486
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-05-16T07:48:53Z",
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8489
+            "stars": 8490
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-03-03T13:40:01Z",
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4620
+            "stars": 4621
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2026-01-19T06:28:58Z",
             "owner": "nakabonne",
             "repo": "ali",
-            "stars": 3937
+            "stars": 3936
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-07-31T16:05:37Z",
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3717
+            "stars": 3718
           }
         },
         {
@@ -694,7 +694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:27:45.881Z",
+    "last_updated": "2026-08-16T02:35:55.535Z",
     "original_repository": "denji/awesome-http-benchmark",
     "original_repository_sha": "924afc91184132ef27c62f131e96dbccdcb4cc4e",
     "enhanced_repository": "enhansome/enhansome-http-benchmark",
