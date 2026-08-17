@@ -14,7 +14,7 @@
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40387
+            "stars": 40386
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T23:40:52Z",
+            "last_commit": "2026-08-17T00:05:23Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31265
+            "stars": 31268
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-02-16T14:07:07Z",
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25144
+            "stars": 25147
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-02T08:28:32Z",
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10486
+            "stars": 10487
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-05-16T07:48:53Z",
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8490
+            "stars": 8492
           }
         },
         {
@@ -207,7 +207,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-07-15T11:29:44Z",
+            "last_commit": "2026-08-16T20:19:49Z",
             "owner": "PragmaticFlow",
             "repo": "NBomber",
             "stars": 2239
@@ -476,7 +476,7 @@
             "last_commit": "2021-03-31T22:32:19Z",
             "owner": "americanexpress",
             "repo": "baton",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -694,7 +694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:35:55.535Z",
+    "last_updated": "2026-08-17T02:35:20.552Z",
     "original_repository": "denji/awesome-http-benchmark",
     "original_repository_sha": "924afc91184132ef27c62f131e96dbccdcb4cc4e",
     "enhanced_repository": "enhansome/enhansome-http-benchmark",
