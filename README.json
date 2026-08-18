@@ -14,7 +14,7 @@
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40386
+            "stars": 40387
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T00:05:23Z",
+            "last_commit": "2026-08-17T16:57:38Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31268
+            "stars": 31273
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-02-16T14:07:07Z",
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25147
+            "stars": 25150
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-02T08:28:32Z",
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10487
+            "stars": 10493
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-03-04T10:47:26Z",
             "owner": "getanteon",
             "repo": "anteon",
-            "stars": 8520
+            "stars": 8518
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-03-31T13:01:05Z",
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6824
+            "stars": 6823
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-04-28T15:48:39Z",
             "owner": "six-ddc",
             "repo": "plow",
-            "stars": 4516
+            "stars": 4517
           }
         },
         {
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-31T16:05:37Z",
+            "last_commit": "2026-08-17T13:32:48Z",
             "owner": "fortio",
             "repo": "fortio",
             "stars": 3718
@@ -207,7 +207,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-08-16T20:19:49Z",
+            "last_commit": "2026-08-17T13:22:46Z",
             "owner": "PragmaticFlow",
             "repo": "NBomber",
             "stars": 2239
@@ -224,7 +224,7 @@
             "last_commit": "2020-04-23T18:16:47Z",
             "owner": "goadapp",
             "repo": "goad",
-            "stars": 1870
+            "stars": 1869
           }
         },
         {
@@ -694,7 +694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:35:20.552Z",
+    "last_updated": "2026-08-18T02:30:33.999Z",
     "original_repository": "denji/awesome-http-benchmark",
     "original_repository_sha": "924afc91184132ef27c62f131e96dbccdcb4cc4e",
     "enhanced_repository": "enhansome/enhansome-http-benchmark",
