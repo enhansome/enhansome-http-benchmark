@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3774328,
             "language": "C",
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40388
+            "stars": 40389
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-18T20:22:13Z",
+            "last_commit": "2026-08-19T11:02:37Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31278
+            "stars": 31279
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12080551,
             "language": "Go",
             "last_commit": "2026-02-16T14:07:07Z",
             "owner": "tsenart",
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67213524,
             "language": "Go",
             "last_commit": "2026-01-10T20:54:51Z",
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20232
+            "stars": 20233
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244377430,
             "language": "Rust",
-            "last_commit": "2026-08-02T08:28:32Z",
+            "last_commit": "2026-08-19T04:55:06Z",
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10498
+            "stars": 10499
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 392596825,
             "language": "Go",
             "last_commit": "2026-03-04T10:47:26Z",
             "owner": "getanteon",
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55169257,
             "language": "JavaScript",
             "last_commit": "2026-05-16T07:48:53Z",
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8494
+            "stars": 8496
           }
         },
         {
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59949570,
             "language": "Go",
             "last_commit": "2026-03-31T13:01:05Z",
             "owner": "codesenberg",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26362798,
             "language": "C",
             "last_commit": "2024-03-03T13:40:01Z",
             "owner": "giltene",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376492865,
             "language": "Go",
             "last_commit": "2026-04-28T15:48:39Z",
             "owner": "six-ddc",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294836885,
             "language": "Go",
             "last_commit": "2026-01-19T06:28:58Z",
             "owner": "nakabonne",
@@ -164,11 +175,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106351459,
             "language": "Go",
             "last_commit": "2026-08-17T13:32:48Z",
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3720
+            "stars": 3721
           }
         },
         {
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5150693,
             "language": "Python",
             "last_commit": "2026-08-14T14:31:15Z",
             "owner": "yandex",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91699290,
             "language": "Rust",
             "last_commit": "2026-07-29T05:59:50Z",
             "owner": "fcsonline",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139870214,
             "language": "CSS",
             "last_commit": "2026-08-17T13:22:46Z",
             "owner": "PragmaticFlow",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 50202399,
             "language": "Go",
             "last_commit": "2020-04-23T18:16:47Z",
             "owner": "goadapp",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32239287,
             "language": "C++",
             "last_commit": "2025-06-26T21:12:32Z",
             "owner": "shekyan",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10510374,
             "language": "C#",
             "last_commit": "2022-12-05T15:17:31Z",
             "owner": "hallatore",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10390526,
             "language": "Go",
             "last_commit": "2026-07-04T02:21:05Z",
             "owner": "tsliwowicz",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32188829,
             "language": "C",
             "last_commit": "2022-04-20T11:35:50Z",
             "owner": "httperf",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244303246,
             "language": "Rust",
             "last_commit": "2026-06-28T16:19:46Z",
             "owner": "tag1consulting",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204351794,
             "language": "Go",
             "last_commit": "2025-09-11T18:56:45Z",
             "owner": "rogerwelin",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59965014,
             "language": "Go",
             "last_commit": "2022-08-10T03:18:54Z",
             "owner": "h2non",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331078420,
             "language": "Rust",
             "last_commit": "2024-03-25T12:30:23Z",
             "owner": "lnx-search",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35025578,
             "language": "Python",
             "last_commit": "2024-03-18T18:17:01Z",
             "owner": "tarekziade",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70748642,
             "language": "Go",
             "last_commit": "2026-03-28T19:49:52Z",
             "owner": "bengadbois",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11592040,
             "language": "Go",
             "last_commit": "2023-01-24T13:48:40Z",
             "owner": "cmpxchg16",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16297753,
             "language": "Go",
             "last_commit": "2019-04-23T18:38:57Z",
             "owner": "valyala",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14485655,
             "language": "Go",
             "last_commit": "2017-10-15T09:35:31Z",
             "owner": "btfak",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2762014,
             "language": "C",
             "last_commit": "2025-04-06T02:20:14Z",
             "owner": "lighttpd",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58234165,
             "language": "Go",
             "last_commit": "2023-12-05T09:22:13Z",
             "owner": "BuoyantIO",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92926721,
             "language": "Go",
             "last_commit": "2021-09-20T14:55:21Z",
             "owner": "ikruglov",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11033400,
             "language": "C++",
             "last_commit": "2024-01-18T22:38:10Z",
             "owner": "apigee",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 121804082,
             "language": "Go",
             "last_commit": "2021-03-31T22:32:19Z",
             "owner": "americanexpress",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 146345801,
             "language": "Go",
             "last_commit": "2022-05-26T12:54:25Z",
             "owner": "facebookarchive",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105507884,
             "language": "Python",
             "last_commit": "2020-12-02T11:13:01Z",
             "owner": "tarekziade",
@@ -514,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342758643,
             "language": "Go",
             "last_commit": "2023-03-16T02:57:25Z",
             "owner": "gonetx",
@@ -528,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8926089,
             "language": "Go",
             "last_commit": "2023-08-10T05:52:04Z",
             "owner": "parkghost",
@@ -542,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39696608,
             "language": "Crystal",
             "last_commit": "2026-08-11T10:24:27Z",
             "owner": "sdogruyol",
@@ -556,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374409809,
             "language": "Go",
             "last_commit": "2022-09-24T22:46:30Z",
             "owner": "utkusen",
@@ -570,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50277214,
             "language": "Go",
             "last_commit": "2019-02-21T05:58:41Z",
             "owner": "hagen1778",
@@ -584,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181123013,
             "language": "Rust",
             "last_commit": "2019-05-01T17:02:47Z",
             "owner": "ajmwagar",
@@ -598,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2997078,
             "language": "C",
             "last_commit": "2017-10-14T14:41:05Z",
             "owner": "arut",
@@ -612,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152731833,
             "language": "Rust",
             "last_commit": "2018-10-14T18:21:10Z",
             "owner": "rylev",
@@ -626,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 389137189,
             "language": "C",
             "last_commit": "2026-08-07T12:01:03Z",
             "owner": "folkertvanheusden",
@@ -640,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6750537,
             "language": "C",
             "last_commit": "2013-05-27T12:27:50Z",
             "owner": "opsengine",
@@ -654,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19623335,
             "language": "Go",
             "last_commit": "2021-06-21T20:56:47Z",
             "owner": "byorty",
@@ -668,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327425946,
             "language": "C",
             "last_commit": "2023-04-25T20:23:53Z",
             "owner": "fredrikwidlund",
@@ -682,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134018310,
             "language": "Go",
             "last_commit": "2019-12-31T00:48:19Z",
             "owner": "TylerBrock",
@@ -691,11 +740,243 @@
         }
       ],
       "title": "HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hoppscotch",
+          "description": "API request builder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203587744,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T19:17:55Z",
+            "owner": "hoppscotch",
+            "repo": "hoppscotch",
+            "stars": 80057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "curl",
+          "description": "Powerful features command-line tool for transferring data specified with URL syntax, written in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 569041,
+            "language": "C",
+            "last_commit": "2026-08-19T12:26:31Z",
+            "owner": "curl",
+            "repo": "curl",
+            "stars": 42637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpie",
+          "description": "client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, written in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3544424,
+            "language": "Python",
+            "last_commit": "2024-12-17T17:30:35Z",
+            "owner": "httpie",
+            "repo": "cli",
+            "stars": 38431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jq",
+          "description": "is a lightweight and flexible command-line JSON processor, written in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5101141,
+            "language": "C",
+            "last_commit": "2026-08-12T19:02:39Z",
+            "owner": "jqlang",
+            "repo": "jq",
+            "stars": 35470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hurl",
+          "description": "Hurl is a command line tool that runs HTTP requests defined in a simple plain text format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290243101,
+            "language": "Rust",
+            "last_commit": "2026-08-19T08:00:58Z",
+            "owner": "Orange-OpenSource",
+            "repo": "hurl",
+            "stars": 19152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keploy",
+          "description": "Open source ai testing platform that records user traffic as test cases and mocks (infrastructure virtualisation along withDBs) and uses AI to expand the API, schema and code coverage of the backend regression test suite. It also auto-generates tests with assertions and is used for contract testing, functional and performance testing using AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 449649393,
+            "language": "Go",
+            "last_commit": "2026-08-19T11:41:15Z",
+            "owner": "keploy",
+            "repo": "keploy",
+            "stars": 18399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "curlconverter",
+          "description": "convert curl commands to python, javascript, php",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28468993,
+            "language": "TypeScript",
+            "last_commit": "2026-03-10T05:06:56Z",
+            "owner": "curlconverter",
+            "repo": "curlconverter",
+            "stars": 8166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xh",
+          "description": "Yet another HTTPie clone, written in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 294521053,
+            "language": "Rust",
+            "last_commit": "2026-08-16T21:58:33Z",
+            "owner": "ducaale",
+            "repo": "xh",
+            "stars": 8027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpstat",
+          "description": "It's like curl -v, with colours",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66913302,
+            "language": "Python",
+            "last_commit": "2026-04-08T10:04:34Z",
+            "owner": "reorx",
+            "repo": "httpstat",
+            "stars": 6215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/marmelab/awesome-rest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35204235,
+            "language": null,
+            "last_commit": "2026-05-13T08:22:14Z",
+            "owner": "marmelab",
+            "repo": "awesome-rest",
+            "stars": 3902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bat",
+          "description": "Go implement CLI, cURL-like tool for humans, written in Go ()",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33541385,
+            "language": "Go",
+            "last_commit": "2022-10-29T11:43:43Z",
+            "owner": "astaxie",
+            "repo": "bat",
+            "stars": 2564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/stepci/awesome-api-clients",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 698927866,
+            "language": null,
+            "last_commit": "2026-05-11T13:41:13Z",
+            "owner": "stepci",
+            "repo": "awesome-api-clients",
+            "stars": 1105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepfakeHTTP",
+          "description": "is a web server that uses HTTP dumps as a source for responses, written in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 398508796,
+            "language": "Java",
+            "last_commit": "2022-08-05T16:56:15Z",
+            "owner": "xnbox",
+            "repo": "DeepfakeHTTP",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jaggr",
+          "description": "JSON Aggregation CLI, Jaggr can be used to integrate vegeta with jplot, written in Go ()",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124478010,
+            "language": "Go",
+            "last_commit": "2024-08-29T11:04:00Z",
+            "owner": "rs",
+            "repo": "jaggr",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mrmykey/awesome-http-clients",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 422899208,
+            "language": null,
+            "last_commit": "2026-08-09T08:48:51Z",
+            "owner": "mrmykey",
+            "repo": "awesome-http-clients",
+            "stars": 164
+          }
+        }
+      ],
+      "title": "Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:33:47.956Z",
+    "last_updated": "2026-08-19T12:33:03.276Z",
     "original_repository": "denji/awesome-http-benchmark",
+    "original_repository_id": 83001364,
     "original_repository_sha": "924afc91184132ef27c62f131e96dbccdcb4cc4e",
     "enhanced_repository": "enhansome/enhansome-http-benchmark",
     "enhanced_repository_description": null,
