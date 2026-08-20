@@ -27,10 +27,10 @@
             "archived": false,
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-19T11:02:37Z",
+            "last_commit": "2026-08-19T17:41:14Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31279
+            "stars": 31283
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-02-16T14:07:07Z",
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25152
+            "stars": 25153
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-01-10T20:54:51Z",
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20233
+            "stars": 20232
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-16T07:48:53Z",
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8496
+            "stars": 8498
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 5150693,
             "language": "Python",
-            "last_commit": "2026-08-14T14:31:15Z",
+            "last_commit": "2026-08-19T13:21:12Z",
             "owner": "yandex",
             "repo": "yandex-tank",
             "stars": 2596
@@ -753,7 +753,7 @@
             "archived": false,
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T19:17:55Z",
+            "last_commit": "2026-08-20T02:12:08Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
             "stars": 80057
@@ -768,10 +768,10 @@
             "archived": false,
             "id": 569041,
             "language": "C",
-            "last_commit": "2026-08-19T12:26:31Z",
+            "last_commit": "2026-08-19T21:39:31Z",
             "owner": "curl",
             "repo": "curl",
-            "stars": 42637
+            "stars": 42645
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38431
+            "stars": 38435
           }
         },
         {
@@ -801,7 +801,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35470
+            "stars": 35474
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2026-08-19T08:00:58Z",
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19152
+            "stars": 19153
           }
         },
         {
@@ -828,10 +828,10 @@
             "archived": false,
             "id": 449649393,
             "language": "Go",
-            "last_commit": "2026-08-19T11:41:15Z",
+            "last_commit": "2026-08-19T21:14:16Z",
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 18399
+            "stars": 18406
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-03-10T05:06:56Z",
             "owner": "curlconverter",
             "repo": "curlconverter",
-            "stars": 8166
+            "stars": 8167
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2026-08-16T21:58:33Z",
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8027
+            "stars": 8029
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2026-05-13T08:22:14Z",
             "owner": "marmelab",
             "repo": "awesome-rest",
-            "stars": 3902
+            "stars": 3903
           }
         },
         {
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:03.276Z",
+    "last_updated": "2026-08-20T02:32:16.963Z",
     "original_repository": "denji/awesome-http-benchmark",
     "original_repository_id": 83001364,
     "original_repository_sha": "924afc91184132ef27c62f131e96dbccdcb4cc4e",
