@@ -15,7 +15,7 @@
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40389
+            "stars": 40387
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-19T17:41:14Z",
+            "last_commit": "2026-08-20T22:04:33Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31283
+            "stars": 31289
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-02-16T14:07:07Z",
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25153
+            "stars": 25154
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-01-10T20:54:51Z",
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20232
+            "stars": 20233
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-19T04:55:06Z",
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10499
+            "stars": 10498
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-03-04T10:47:26Z",
             "owner": "getanteon",
             "repo": "anteon",
-            "stars": 8518
+            "stars": 8520
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-16T07:48:53Z",
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8498
+            "stars": 8500
           }
         },
         {
@@ -126,7 +126,7 @@
         {
           "node_type": "item",
           "title": "wrk2",
-          "description": "constant throughput, correct latency recording variant of wrk, written in /",
+          "description": "constant throughput, correct latency recording variant of wrk, written in / Concurrent connections are enabled with: -c, --connections Connections to keep open And keepalive (which is default) can be disabled using: -H \"Connection: close\"",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -150,7 +150,7 @@
             "last_commit": "2026-04-28T15:48:39Z",
             "owner": "six-ddc",
             "repo": "plow",
-            "stars": 4517
+            "stars": 4516
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-17T13:22:46Z",
             "owner": "PragmaticFlow",
             "repo": "NBomber",
-            "stars": 2240
+            "stars": 2239
           }
         },
         {
@@ -480,7 +480,7 @@
             "last_commit": "2021-09-20T14:55:21Z",
             "owner": "ikruglov",
             "repo": "slapper",
-            "stars": 333
+            "stars": 332
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-08-11T10:24:27Z",
             "owner": "sdogruyol",
             "repo": "cryload",
-            "stars": 214
+            "stars": 215
           }
         },
         {
@@ -725,6 +725,21 @@
         },
         {
           "node_type": "item",
+          "title": "zrk",
+          "description": "A constant-throughput load generator in Zig ⚡",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1286097501,
+            "language": "Zig",
+            "last_commit": "2026-08-05T07:14:38Z",
+            "owner": "zoxy-io",
+            "repo": "zrk",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
           "title": "thrash",
           "description": "HTTP Micro Benchmarker, written in Go ()",
           "children": [],
@@ -736,6 +751,21 @@
             "owner": "TylerBrock",
             "repo": "thrash",
             "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pywrkr",
+          "description": "/-inspired benchmarking CLI with latency percentiles, virtual-user simulation, rate limiting, traffic profiles, HAR import, and SLO/threshold checks for CI, written in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1178704764,
+            "language": "Python",
+            "last_commit": "2026-08-19T09:57:22Z",
+            "owner": "kurok",
+            "repo": "pywrkr",
+            "stars": 3
           }
         }
       ],
@@ -753,10 +783,10 @@
             "archived": false,
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T02:12:08Z",
+            "last_commit": "2026-08-20T16:38:46Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80057
+            "stars": 80066
           }
         },
         {
@@ -768,10 +798,10 @@
             "archived": false,
             "id": 569041,
             "language": "C",
-            "last_commit": "2026-08-19T21:39:31Z",
+            "last_commit": "2026-08-20T22:16:45Z",
             "owner": "curl",
             "repo": "curl",
-            "stars": 42645
+            "stars": 42655
           }
         },
         {
@@ -786,7 +816,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38435
+            "stars": 38436
           }
         },
         {
@@ -801,7 +831,7 @@
             "last_commit": "2026-08-12T19:02:39Z",
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35474
+            "stars": 35479
           }
         },
         {
@@ -813,7 +843,7 @@
             "archived": false,
             "id": 290243101,
             "language": "Rust",
-            "last_commit": "2026-08-19T08:00:58Z",
+            "last_commit": "2026-08-20T11:33:48Z",
             "owner": "Orange-OpenSource",
             "repo": "hurl",
             "stars": 19153
@@ -828,10 +858,10 @@
             "archived": false,
             "id": 449649393,
             "language": "Go",
-            "last_commit": "2026-08-19T21:14:16Z",
+            "last_commit": "2026-08-20T16:17:32Z",
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 18406
+            "stars": 18414
           }
         },
         {
@@ -861,7 +891,7 @@
             "last_commit": "2026-08-16T21:58:33Z",
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8029
+            "stars": 8030
           }
         },
         {
@@ -891,7 +921,7 @@
             "last_commit": "2026-05-13T08:22:14Z",
             "owner": "marmelab",
             "repo": "awesome-rest",
-            "stars": 3903
+            "stars": 3905
           }
         },
         {
@@ -922,6 +952,21 @@
             "owner": "stepci",
             "repo": "awesome-api-clients",
             "stars": 1105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agent-qa",
+          "description": "Self-improving QA agent for natural-language web and mobile regression tests, written in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1232322871,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T18:44:59Z",
+            "owner": "vostride",
+            "repo": "agent-qa",
+            "stars": 936
           }
         },
         {
@@ -974,10 +1019,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:32:16.963Z",
+    "last_updated": "2026-08-21T02:38:09.107Z",
     "original_repository": "denji/awesome-http-benchmark",
     "original_repository_id": 83001364,
-    "original_repository_sha": "924afc91184132ef27c62f131e96dbccdcb4cc4e",
+    "original_repository_sha": "e1b9c1da74e0996597bdd04d0d6bc07fb24d884a",
     "enhanced_repository": "enhansome/enhansome-http-benchmark",
     "enhanced_repository_description": null,
     "title": "Awesome HTTP(S) Benchmark Tools with stars"
