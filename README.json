@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T02:20:13Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31308
+            "stars": 31311
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-01-10T20:54:51Z",
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20240
+            "stars": 20239
           }
         },
         {
@@ -732,7 +732,7 @@
             "archived": false,
             "id": 1286097501,
             "language": "Zig",
-            "last_commit": "2026-08-23T19:35:35Z",
+            "last_commit": "2026-08-25T05:36:28Z",
             "owner": "zoxy-io",
             "repo": "zrk",
             "stars": 9
@@ -786,7 +786,7 @@
             "last_commit": "2026-08-24T17:33:02Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80091
+            "stars": 80093
           }
         },
         {
@@ -798,10 +798,10 @@
             "archived": false,
             "id": 569041,
             "language": "C",
-            "last_commit": "2026-08-24T21:38:38Z",
+            "last_commit": "2026-08-25T05:48:37Z",
             "owner": "curl",
             "repo": "curl",
-            "stars": 42676
+            "stars": 42677
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38448
+            "stars": 38449
           }
         },
         {
@@ -843,7 +843,7 @@
             "archived": false,
             "id": 290243101,
             "language": "Rust",
-            "last_commit": "2026-08-24T04:39:20Z",
+            "last_commit": "2026-08-25T03:17:15Z",
             "owner": "Orange-OpenSource",
             "repo": "hurl",
             "stars": 19157
@@ -891,7 +891,7 @@
             "last_commit": "2026-08-23T11:18:23Z",
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8039
+            "stars": 8038
           }
         },
         {
@@ -911,7 +911,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/marmelab/awesome-rest",
+          "title": "marmelab/awesome-rest",
           "description": null,
           "children": [],
           "repo_info": {
@@ -941,7 +941,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/stepci/awesome-api-clients",
+          "title": "stepci/awesome-api-clients",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1001,7 +1001,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mrmykey/awesome-http-clients",
+          "title": "mrmykey/awesome-http-clients",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:32:54.426Z",
+    "last_updated": "2026-08-25T05:51:01.438Z",
     "original_repository": "denji/awesome-http-benchmark",
     "original_repository_id": 83001364,
     "original_repository_sha": "e1b9c1da74e0996597bdd04d0d6bc07fb24d884a",
