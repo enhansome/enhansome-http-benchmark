@@ -27,10 +27,10 @@
             "archived": false,
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-24T00:04:32Z",
+            "last_commit": "2026-08-25T02:20:13Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31303
+            "stars": 31308
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-02-16T14:07:07Z",
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25163
+            "stars": 25164
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-23T09:11:21Z",
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10502
+            "stars": 10504
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-03-31T13:01:05Z",
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6826
+            "stars": 6825
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2025-06-26T21:12:32Z",
             "owner": "shekyan",
             "repo": "slowhttptest",
-            "stars": 1643
+            "stars": 1644
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2022-12-05T15:17:31Z",
             "owner": "hallatore",
             "repo": "Netling",
-            "stars": 1347
+            "stars": 1348
           }
         },
         {
@@ -783,10 +783,10 @@
             "archived": false,
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:30:15Z",
+            "last_commit": "2026-08-24T17:33:02Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80090
+            "stars": 80091
           }
         },
         {
@@ -798,10 +798,10 @@
             "archived": false,
             "id": 569041,
             "language": "C",
-            "last_commit": "2026-08-24T13:55:11Z",
+            "last_commit": "2026-08-24T21:38:38Z",
             "owner": "curl",
             "repo": "curl",
-            "stars": 42677
+            "stars": 42676
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38446
+            "stars": 38448
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-24T04:39:20Z",
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19155
+            "stars": 19157
           }
         },
         {
@@ -858,10 +858,10 @@
             "archived": false,
             "id": 449649393,
             "language": "Go",
-            "last_commit": "2026-08-24T12:53:37Z",
+            "last_commit": "2026-08-24T16:51:54Z",
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 18416
+            "stars": 18414
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2026-08-23T11:18:23Z",
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8038
+            "stars": 8039
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2026-05-13T08:22:14Z",
             "owner": "marmelab",
             "repo": "awesome-rest",
-            "stars": 3906
+            "stars": 3907
           }
         },
         {
@@ -966,7 +966,7 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 960
+            "stars": 961
           }
         },
         {
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:57:15.771Z",
+    "last_updated": "2026-08-25T02:32:54.426Z",
     "original_repository": "denji/awesome-http-benchmark",
     "original_repository_id": 83001364,
     "original_repository_sha": "e1b9c1da74e0996597bdd04d0d6bc07fb24d884a",
