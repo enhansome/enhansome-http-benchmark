@@ -783,7 +783,7 @@
             "archived": false,
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T14:31:15Z",
+            "last_commit": "2026-08-27T11:29:09Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
             "stars": 80103
@@ -798,7 +798,7 @@
             "archived": false,
             "id": 569041,
             "language": "C",
-            "last_commit": "2026-08-27T10:51:30Z",
+            "last_commit": "2026-08-27T11:44:05Z",
             "owner": "curl",
             "repo": "curl",
             "stars": 42695
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-27T04:44:30Z",
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19160
+            "stars": 19161
           }
         },
         {
@@ -966,7 +966,7 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 842
+            "stars": 844
           }
         },
         {
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:14:02.070Z",
+    "last_updated": "2026-08-27T11:44:11.382Z",
     "original_repository_info": {
       "archived": false,
       "id": 83001364,

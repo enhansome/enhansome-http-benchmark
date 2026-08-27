@@ -74,12 +74,12 @@
 
 # Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 
-* [**hoppscotch**](https://github.com/hoppscotch/hoppscotch) ⭐ 80,103 | 🐛 806 | 🌐 TypeScript | 📅 2026-08-26 - API request builder
-* [**curl**](https://github.com/curl/curl) ⭐ 42,695 | 🐛 42 | 🌐 C | 📅 2026-08-27 – Powerful features command-line tool for transferring data specified with URL syntax, written in `C`
+* [**hoppscotch**](https://github.com/hoppscotch/hoppscotch) ⭐ 80,103 | 🐛 805 | 🌐 TypeScript | 📅 2026-08-27 - API request builder
+* [**curl**](https://github.com/curl/curl) ⭐ 42,695 | 🐛 43 | 🌐 C | 📅 2026-08-27 – Powerful features command-line tool for transferring data specified with URL syntax, written in `C`
   * [Online curl command line builde](https://curlbuilder.com/)
 * [**httpie**](https://github.com/jkbrzt/httpie) ⭐ 38,460 | 🐛 334 | 🌐 Python | 📅 2024-12-17 – client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, written in `Python`
 * [**jq**](https://github.com/stedolan/jq) ⭐ 35,488 | 🐛 470 | 🌐 C | 📅 2026-08-23 – is a lightweight and flexible command-line JSON processor, written in `C`
-* [**hurl**](https://github.com/Orange-OpenSource/hurl) ⭐ 19,160 | 🐛 205 | 🌐 Rust | 📅 2026-08-27 - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format
+* [**hurl**](https://github.com/Orange-OpenSource/hurl) ⭐ 19,161 | 🐛 205 | 🌐 Rust | 📅 2026-08-27 - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format
 * [**Keploy**](https://github.com/keploy/keploy) ⭐ 18,431 | 🐛 712 | 🌐 Go | 📅 2026-08-27 - Open source ai testing platform that records user traffic as test cases and mocks (infrastructure virtualisation along withDBs) and uses AI to expand the API, schema and code coverage of the backend regression test suite. It also auto-generates tests with assertions and is used for contract testing, functional and performance testing using AI.
 * [**curlconverter**](https://github.com/NickCarneiro/curlconverter) ⭐ 8,171 | 🐛 43 | 🌐 TypeScript | 📅 2026-03-10 – convert curl commands to python, javascript, php
 * [**xh**](https://github.com/ducaale/xh) ⭐ 8,042 | 🐛 38 | 🌐 Rust | 📅 2026-08-23 – Yet another [HTTPie](https://httpie.org) clone, written in `Rust`
@@ -87,7 +87,7 @@
 * <https://github.com/marmelab/awesome-rest> ⭐ 3,908 | 🐛 16 | 📅 2026-05-13
 * [**bat**](https://github.com/astaxie/bat) ⭐ 2,564 | 🐛 29 | 🌐 Go | 📅 2022-10-29 – Go implement CLI, cURL-like tool for humans, written in Go (`golang`)
 * <https://github.com/stepci/awesome-api-clients> ⭐ 1,106 | 🐛 3 | 📅 2026-05-11
-* [**agent-qa**](https://github.com/vostride/agent-qa) ⭐ 842 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 – Self-improving QA agent for natural-language web and mobile regression tests, written in `TypeScript`
+* [**agent-qa**](https://github.com/vostride/agent-qa) ⭐ 844 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 – Self-improving QA agent for natural-language web and mobile regression tests, written in `TypeScript`
 * [**DeepfakeHTTP**](https://github.com/xnbox/DeepfakeHTTP) ⭐ 526 | 🐛 8 | 🌐 Java | 📅 2022-08-05 – is a web server that uses HTTP dumps as a source for responses, written in `Java`
 * [**jaggr**](https://github.com/rs/jaggr) ⭐ 484 | 🐛 2 | 🌐 Go | 📅 2024-08-29 – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) ⭐ 25,169 | 🐛 122 | 🌐 Go | 📅 2026-02-16 with [jplot](https://github.com/rs/jplot) ⭐ 1,178 | 🐛 10 | 🌐 Go | 📅 2025-10-20, written in Go (`golang`)
 * <https://github.com/mrmykey/awesome-http-clients> ⭐ 165 | 🐛 1 | 📅 2026-08-09
