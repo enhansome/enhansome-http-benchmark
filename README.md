@@ -6,11 +6,11 @@
 
 * [**wrk**](https://github.com/wg/wrk) ⭐ 40,400 | 🐛 203 | 🌐 C | 📅 2023-12-30 – multithreaded, ~~but doesn't offer concurrent connections and a keepalive switch~~, written in `C`/`Lua`
 * [**k6**](https://github.com/loadimpact/k6) ⭐ 31,349 | 🐛 799 | 🌐 Go | 📅 2026-08-29 - A modern load testing tool scriptable in ES6 JS with support for HTTP/1.1, HTTP/2.0 and WebSocket, written in Go (`golang`)
-* [**vegeta**](https://github.com/tsenart/vegeta) ⭐ 25,170 | 🐛 122 | 🌐 Go | 📅 2026-02-16 – HTTP load testing tool and library, written in Go (`golang`)
+* [**vegeta**](https://github.com/tsenart/vegeta) ⭐ 25,169 | 🐛 122 | 🌐 Go | 📅 2026-02-16 – HTTP load testing tool and library, written in Go (`golang`)
 * [**hey**](https://github.com/rakyll/hey) ⭐ 20,246 | 🐛 189 | 🌐 Go | 📅 2026-01-10 – HTTP(S) load generator, ApacheBench (`ab`) replacement, formerly known as [**rakyll/boom**](https://github.com/rakyll/boom) ⚠️ Archived, written in Go (`golang`)
 * [**oha**](https://github.com/hatoo/oha) ⭐ 10,515 | 🐛 57 | 🌐 Rust | 📅 2026-08-23 – HTTP load generator, inspired by rakyll/hey with tui animation, written in `Rust`
 * [**ddosify**](https://github.com/ddosify/ddosify) ⭐ 8,523 | 🐛 19 | 🌐 Go | 📅 2026-03-04 – High-performance load testing tool, written in Go (`golang`)
-* [**autocannon**](https://github.com/mcollina/autocannon) ⭐ 8,504 | 🐛 58 | 🌐 JavaScript | 📅 2026-05-16 – fast HTTP/1.1 benchmarking tool written in Node.js
+* [**autocannon**](https://github.com/mcollina/autocannon) ⭐ 8,505 | 🐛 58 | 🌐 JavaScript | 📅 2026-05-16 – fast HTTP/1.1 benchmarking tool written in Node.js
 * [**bombardier**](https://github.com/codesenberg/bombardier) ⭐ 6,831 | 🐛 28 | 🌐 Go | 📅 2026-08-25 – Fast crossplatform HTTP benchmarking tool, written in Go (`golang`)
 * [**wrk2**](https://github.com/giltene/wrk2) ⭐ 4,627 | 🐛 106 | 🌐 C | 📅 2024-03-03 – constant throughput, correct latency recording variant of wrk, written in `C`/`Lua`
   Concurrent connections are enabled with:
@@ -74,22 +74,22 @@
 
 # Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 
-* [**hoppscotch**](https://github.com/hoppscotch/hoppscotch) ⭐ 80,114 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-28 - API request builder
-* [**curl**](https://github.com/curl/curl) ⭐ 42,707 | 🐛 41 | 🌐 C | 📅 2026-08-28 – Powerful features command-line tool for transferring data specified with URL syntax, written in `C`
+* [**hoppscotch**](https://github.com/hoppscotch/hoppscotch) ⭐ 80,112 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-28 - API request builder
+* [**curl**](https://github.com/curl/curl) ⭐ 42,708 | 🐛 42 | 🌐 C | 📅 2026-08-28 – Powerful features command-line tool for transferring data specified with URL syntax, written in `C`
   * [Online curl command line builde](https://curlbuilder.com/)
 * [**httpie**](https://github.com/jkbrzt/httpie) ⭐ 38,465 | 🐛 335 | 🌐 Python | 📅 2024-12-17 – client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, written in `Python`
-* [**jq**](https://github.com/stedolan/jq) ⭐ 35,506 | 🐛 472 | 🌐 C | 📅 2026-08-23 – is a lightweight and flexible command-line JSON processor, written in `C`
+* [**jq**](https://github.com/stedolan/jq) ⭐ 35,506 | 🐛 473 | 🌐 C | 📅 2026-08-23 – is a lightweight and flexible command-line JSON processor, written in `C`
 * [**hurl**](https://github.com/Orange-OpenSource/hurl) ⭐ 19,163 | 🐛 203 | 🌐 Rust | 📅 2026-08-28 - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format
-* [**Keploy**](https://github.com/keploy/keploy) ⭐ 18,435 | 🐛 716 | 🌐 Go | 📅 2026-08-28 - Open source ai testing platform that records user traffic as test cases and mocks (infrastructure virtualisation along withDBs) and uses AI to expand the API, schema and code coverage of the backend regression test suite. It also auto-generates tests with assertions and is used for contract testing, functional and performance testing using AI.
+* [**Keploy**](https://github.com/keploy/keploy) ⭐ 18,436 | 🐛 716 | 🌐 Go | 📅 2026-08-28 - Open source ai testing platform that records user traffic as test cases and mocks (infrastructure virtualisation along withDBs) and uses AI to expand the API, schema and code coverage of the backend regression test suite. It also auto-generates tests with assertions and is used for contract testing, functional and performance testing using AI.
 * [**curlconverter**](https://github.com/NickCarneiro/curlconverter) ⭐ 8,171 | 🐛 43 | 🌐 TypeScript | 📅 2026-03-10 – convert curl commands to python, javascript, php
 * [**xh**](https://github.com/ducaale/xh) ⭐ 8,042 | 🐛 38 | 🌐 Rust | 📅 2026-08-23 – Yet another [HTTPie](https://httpie.org) clone, written in `Rust`
 * [**httpstat**](https://github.com/reorx/httpstat) ⭐ 6,218 | 🐛 9 | 🌐 Python | 📅 2026-04-08 - It's like curl -v, with colours
 * <https://github.com/marmelab/awesome-rest> ⭐ 3,910 | 🐛 16 | 📅 2026-05-13
 * [**bat**](https://github.com/astaxie/bat) ⭐ 2,564 | 🐛 29 | 🌐 Go | 📅 2022-10-29 – Go implement CLI, cURL-like tool for humans, written in Go (`golang`)
 * <https://github.com/stepci/awesome-api-clients> ⭐ 1,107 | 🐛 3 | 📅 2026-05-11
-* [**agent-qa**](https://github.com/vostride/agent-qa) ⭐ 913 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 – Self-improving QA agent for natural-language web and mobile regression tests, written in `TypeScript`
+* [**agent-qa**](https://github.com/vostride/agent-qa) ⭐ 920 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 – Self-improving QA agent for natural-language web and mobile regression tests, written in `TypeScript`
 * [**DeepfakeHTTP**](https://github.com/xnbox/DeepfakeHTTP) ⭐ 526 | 🐛 8 | 🌐 Java | 📅 2022-08-05 – is a web server that uses HTTP dumps as a source for responses, written in `Java`
-* [**jaggr**](https://github.com/rs/jaggr) ⭐ 484 | 🐛 2 | 🌐 Go | 📅 2024-08-29 – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) ⭐ 25,170 | 🐛 122 | 🌐 Go | 📅 2026-02-16 with [jplot](https://github.com/rs/jplot) ⭐ 1,178 | 🐛 10 | 🌐 Go | 📅 2025-10-20, written in Go (`golang`)
+* [**jaggr**](https://github.com/rs/jaggr) ⭐ 484 | 🐛 2 | 🌐 Go | 📅 2024-08-29 – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) ⭐ 25,169 | 🐛 122 | 🌐 Go | 📅 2026-02-16 with [jplot](https://github.com/rs/jplot) ⭐ 1,178 | 🐛 10 | 🌐 Go | 📅 2025-10-20, written in Go (`golang`)
 * <https://github.com/mrmykey/awesome-http-clients> ⭐ 165 | 🐛 1 | 📅 2026-08-09
 * [**Bruno**](https://www.usebruno.com/) – is a Fast and Git-Friendly Opensource API client
 * [**HTTPie Desktop**](https://httpie.io/desktop) – HTTPie Desktop is a cross-platform API testing client for humans. Use it to test REST, GraphQL, and HTTP APIs painlessly.

@@ -71,7 +71,7 @@
             "open_issues": 122,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25170,
+            "stars": 25169,
             "topics": [
               "benchmarking",
               "go",
@@ -182,7 +182,7 @@
             "open_issues": 58,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8504,
+            "stars": 8505,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -1300,7 +1300,7 @@
             "open_issues": 804,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80114,
+            "stars": 80112,
             "topics": [
               "api",
               "api-client",
@@ -1337,10 +1337,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T22:06:06Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "curl",
             "repo": "curl",
-            "stars": 42707,
+            "stars": 42708,
             "topics": [
               "c",
               "client",
@@ -1421,7 +1421,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-23T15:06:16Z",
-            "open_issues": 472,
+            "open_issues": 473,
             "owner": "jqlang",
             "repo": "jq",
             "stars": 35506,
@@ -1477,7 +1477,7 @@
             "open_issues": 716,
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 18435,
+            "stars": 18436,
             "topics": [
               "agentic-ai",
               "ai-testing-tool",
@@ -1666,7 +1666,7 @@
             "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 913,
+            "stars": 920,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -1788,7 +1788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:25:16.759Z",
+    "last_updated": "2026-08-29T07:54:28.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)",
