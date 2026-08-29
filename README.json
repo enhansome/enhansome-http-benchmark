@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern HTTP benchmarking tool",
+            "homepage": null,
             "id": 3774328,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-30T10:33:51Z",
+            "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40398
+            "stars": 40400,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -26,12 +31,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern load testing tool, using Go and JavaScript",
+            "homepage": "https://grafana.com/oss/k6/",
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-28T10:42:04Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:01:11Z",
+            "open_issues": 799,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31346
+            "stars": 31349,
+            "topics": [
+              "es6",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "javascript",
+              "k6",
+              "load-generator",
+              "load-testing",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -42,12 +62,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP load testing tool and library. It's over 9000!",
+            "homepage": "http://godoc.org/github.com/tsenart/vegeta/lib",
             "id": 12080551,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-16T14:07:07Z",
+            "open_issues": 122,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25170
+            "stars": 25170,
+            "topics": [
+              "benchmarking",
+              "go",
+              "http",
+              "load-testing"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -58,12 +88,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP load generator, ApacheBench (ab) replacement",
+            "homepage": null,
             "id": 67213524,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-10T20:54:51Z",
+            "open_issues": 189,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20244
+            "stars": 20246,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -74,12 +109,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.",
+            "homepage": null,
             "id": 244377430,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-23T09:11:21Z",
+            "open_issues": 57,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10513
+            "stars": 10515,
+            "topics": [
+              "benchmark",
+              "cli",
+              "command-line",
+              "http",
+              "http2",
+              "load-generator",
+              "load-testing",
+              "rust",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -90,12 +140,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing",
+            "homepage": "https://getanteon.com",
             "id": 392596825,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-04T10:47:26Z",
+            "open_issues": 19,
             "owner": "getanteon",
             "repo": "anteon",
-            "stars": 8523
+            "stars": 8523,
+            "topics": [
+              "ddosify",
+              "docker",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "k8s",
+              "kubernetes",
+              "load-generator",
+              "load-testing",
+              "loadtesting",
+              "performance-testing"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -106,12 +173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fast HTTP/1.1 benchmarking tool written in Node.js",
+            "homepage": null,
             "id": 55169257,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-16T07:48:53Z",
+            "open_issues": 58,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8503
+            "stars": 8504,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -122,12 +194,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast cross-platform HTTP benchmarking tool written in Go",
+            "homepage": null,
             "id": 59949570,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T22:40:58Z",
+            "open_issues": 28,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6829
+            "stars": 6831,
+            "topics": [
+              "benchmarking",
+              "bombardier",
+              "cli",
+              "fast",
+              "go",
+              "golang",
+              "http",
+              "linux",
+              "load-testing",
+              "macos",
+              "performance",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -138,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A constant throughput, correct latency recording variant of wrk",
+            "homepage": null,
             "id": 26362798,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-03T13:40:01Z",
+            "open_issues": 106,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4627
+            "stars": 4627,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -154,12 +249,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display",
+            "homepage": "https://deepwiki.com/six-ddc/plow",
             "id": 376492865,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-28T15:48:39Z",
+            "open_issues": 20,
             "owner": "six-ddc",
             "repo": "plow",
-            "stars": 4518
+            "stars": 4518,
+            "topics": [
+              "apachebench",
+              "cli",
+              "http",
+              "load",
+              "load-testing",
+              "performance",
+              "realtime",
+              "visualization",
+              "wrk"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -170,12 +280,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate HTTP load and plot the results in real-time",
+            "homepage": null,
             "id": 294836885,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-19T06:28:58Z",
+            "open_issues": 25,
             "owner": "nakabonne",
             "repo": "ali",
-            "stars": 3938
+            "stars": 3938,
+            "topics": [
+              "benchmarking",
+              "go",
+              "load-testing",
+              "monitoring",
+              "testing-tools",
+              "tui",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -186,12 +309,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
+            "homepage": "https://fortio.org",
             "id": 106351459,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T13:32:37Z",
+            "open_issues": 87,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3722
+            "stars": 3722,
+            "topics": [
+              "go",
+              "golang",
+              "golang-application",
+              "golang-library",
+              "grpc",
+              "http",
+              "performance",
+              "performance-testing",
+              "performance-visualization",
+              "proxy",
+              "stress-testing"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -202,12 +342,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Load and performance benchmark tool",
+            "homepage": null,
             "id": 5150693,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T13:21:12Z",
+            "open_issues": 84,
             "owner": "yandex",
             "repo": "yandex-tank",
-            "stars": 2596
+            "stars": 2597,
+            "topics": [
+              "framework",
+              "load-testing",
+              "performance",
+              "performance-test",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -218,12 +369,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Drill is an HTTP load testing application written in Rust",
+            "homepage": null,
             "id": 91699290,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-29T05:59:50Z",
+            "open_issues": 38,
             "owner": "fcsonline",
             "repo": "drill",
-            "stars": 2308
+            "stars": 2308,
+            "topics": [
+              "http",
+              "jmeter",
+              "performance",
+              "performance-testing",
+              "rust",
+              "tester"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -234,12 +397,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed load-testing framework for .NET. Create distributed load test scenarios entirely using plain C# or F#. It is designed to test any system regardless of the protocol or a semantic model (Pull/Push).",
+            "homepage": "https://nbomber.com",
             "id": 139870214,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-08-17T13:22:46Z",
+            "open_issues": 173,
             "owner": "PragmaticFlow",
             "repo": "NBomber",
-            "stars": 2238
+            "stars": 2238,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "fsharp",
+              "integration-testing",
+              "load-testing",
+              "performance-testing"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -250,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Goad is an AWS Lambda powered, highly distributed, load testing tool",
+            "homepage": "https://goad.io",
             "id": 50202399,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-04-23T18:16:47Z",
+            "open_issues": 34,
             "owner": "goadapp",
             "repo": "goad",
-            "stars": 1869
+            "stars": 1869,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -266,12 +446,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application Layer DoS attack simulator",
+            "homepage": null,
             "id": 32239287,
             "language": "C++",
-            "last_commit": "2026-08-28T07:01:47Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:52:02Z",
+            "open_issues": 25,
             "owner": "shekyan",
             "repo": "slowhttptest",
-            "stars": 1644
+            "stars": 1645,
+            "topics": [
+              "performance-metrics",
+              "security-scanner",
+              "slowhttptest"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -282,12 +471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Netling is a load tester client for easy web testing.",
+            "homepage": null,
             "id": 10510374,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-12-05T15:17:31Z",
+            "open_issues": 13,
             "owner": "hallatore",
             "repo": "Netling",
-            "stars": 1348
+            "stars": 1348,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -298,12 +492,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "go-wrk - a HTTP benchmarking tool based in spirit on the excellent wrk tool (https://github.com/wg/wrk)",
+            "homepage": null,
             "id": 10390526,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-04T02:21:05Z",
+            "open_issues": 10,
             "owner": "tsliwowicz",
             "repo": "go-wrk",
-            "stars": 1062
+            "stars": 1062,
+            "topics": [
+              "concurrency",
+              "go",
+              "http-benchmarking",
+              "performance-testing"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -314,12 +518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The httperf HTTP load generator",
+            "homepage": null,
             "id": 32188829,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2022-04-20T11:35:50Z",
+            "open_issues": 54,
             "owner": "httperf",
             "repo": "httperf",
-            "stars": 1018
+            "stars": 1018,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -330,12 +539,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Load testing framework, inspired by Locust",
+            "homepage": "https://tag1.com/goose",
             "id": 244303246,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-28T16:19:46Z",
+            "open_issues": 43,
             "owner": "tag1consulting",
             "repo": "goose",
-            "stars": 993
+            "stars": 993,
+            "topics": [
+              "goose",
+              "http",
+              "http-client",
+              "load-testing",
+              "loadtesting",
+              "metrics",
+              "performance",
+              "rust",
+              "rust-lang"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -346,12 +570,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: Modern cross-platform HTTP load-testing tool written in Go",
+            "homepage": null,
             "id": 204351794,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-09-11T18:56:45Z",
+            "open_issues": 7,
             "owner": "rogerwelin",
             "repo": "cassowary",
-            "stars": 813
+            "stars": 813,
+            "topics": [
+              "cli",
+              "cross-platform",
+              "go",
+              "golang",
+              "http",
+              "linux",
+              "load-testing",
+              "macos",
+              "metrics",
+              "performance",
+              "testing",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -362,12 +604,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expressive end-to-end HTTP API testing made easy in Go",
+            "homepage": "https://godoc.org/github.com/h2non/baloo",
             "id": 59965014,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-08-10T03:18:54Z",
+            "open_issues": 9,
             "owner": "h2non",
             "repo": "baloo",
-            "stars": 779
+            "stars": 779,
+            "topics": [
+              "assert",
+              "expectations",
+              "gentleman",
+              "golang",
+              "http",
+              "http-api-debug",
+              "json-schema",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -378,12 +634,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks.",
+            "homepage": null,
             "id": 331078420,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-03-25T12:30:23Z",
+            "open_issues": 18,
             "owner": "lnx-search",
             "repo": "rewrk",
-            "stars": 586
+            "stars": 586,
+            "topics": [
+              "benchmark",
+              "http",
+              "rust",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -394,12 +660,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Load Testing Tool",
+            "homepage": null,
             "id": 35025578,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-18T18:17:01Z",
+            "open_issues": 19,
             "owner": "tarekziade",
             "repo": "molotov",
-            "stars": 480
+            "stars": 480,
+            "topics": [
+              "command-line-tool",
+              "load-testing",
+              "python-3"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -410,12 +685,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible HTTP command line stress tester for websites and web services",
+            "homepage": null,
             "id": 70748642,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-28T19:49:52Z",
+            "open_issues": 1,
             "owner": "bengadbois",
             "repo": "pewpew",
-            "stars": 457
+            "stars": 457,
+            "topics": [
+              "load-testing",
+              "performance-analysis",
+              "performance-testing",
+              "stress-tester",
+              "stress-testing"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -426,12 +712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP/HTTPS load testing and benchmarking tool",
+            "homepage": null,
             "id": 11592040,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-01-24T13:48:40Z",
+            "open_issues": 21,
             "owner": "cmpxchg16",
             "repo": "gobench",
-            "stars": 443
+            "stars": 443,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -442,12 +733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slowloris for nginx DoS. Written in go",
+            "homepage": null,
             "id": 16297753,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-04-23T18:38:57Z",
+            "open_issues": 7,
             "owner": "valyala",
             "repo": "goloris",
-            "stars": 380
+            "stars": 380,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -458,12 +754,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful & high-performance http load tester",
+            "homepage": null,
             "id": 14485655,
             "language": "Go",
+            "license": null,
             "last_commit": "2017-10-15T09:35:31Z",
+            "open_issues": 10,
             "owner": "btfak",
             "repo": "sniper",
-            "stars": 378
+            "stars": 378,
+            "topics": [
+              "loader"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -474,12 +777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "weighttp on github for easier collaboration - main repo still on lighttpd.net",
+            "homepage": "http://redmine.lighttpd.net/projects/weighttp/wiki",
             "id": 2762014,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-06T02:20:14Z",
+            "open_issues": 1,
             "owner": "lighttpd",
             "repo": "weighttp",
-            "stars": 365
+            "stars": 365,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -490,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A load tester focused on lifecycle issues and long-running tests",
+            "homepage": null,
             "id": 58234165,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-05T09:22:13Z",
+            "open_issues": 9,
             "owner": "BuoyantIO",
             "repo": "slow_cooker",
-            "stars": 346
+            "stars": 346,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -506,12 +819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple load testing tool with real-time updated histogram of request timings",
+            "homepage": null,
             "id": 92926721,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-09-20T14:55:21Z",
+            "open_issues": 3,
             "owner": "ikruglov",
             "repo": "slapper",
-            "stars": 332
+            "stars": 332,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -522,12 +840,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple, fast HTTP and API benchmarking tool",
+            "homepage": null,
             "id": 11033400,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-18T22:38:10Z",
+            "open_issues": 10,
             "owner": "apigee",
             "repo": "apib",
-            "stars": 319
+            "stars": 319,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -538,12 +861,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "HTTP load testing witten in Go",
+            "homepage": null,
             "id": 121804082,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-31T22:32:19Z",
+            "open_issues": 4,
             "owner": "americanexpress",
             "repo": "baton",
-            "stars": 291
+            "stars": 291,
+            "topics": [
+              "go",
+              "golang",
+              "http",
+              "load-testing"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -554,12 +887,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A load-testing command line tool for generic network protocols",
+            "homepage": null,
             "id": 146345801,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-26T12:54:25Z",
+            "open_issues": 1,
             "owner": "facebookarchive",
             "repo": "fbender",
-            "stars": 254
+            "stars": 254,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -570,12 +908,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Like Boom, but based on Molotov",
+            "homepage": null,
             "id": 105507884,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-12-02T11:13:01Z",
+            "open_issues": 3,
             "owner": "tarekziade",
             "repo": "salvo",
-            "stars": 239
+            "stars": 239,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -586,12 +929,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rapid http(s) benchmark tool written in Go",
+            "homepage": null,
             "id": 342758643,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-03-16T02:57:25Z",
+            "open_issues": 8,
             "owner": "gonetx",
             "repo": "httpit",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "benchmark",
+              "fast",
+              "go",
+              "golang",
+              "gonetx",
+              "http",
+              "http-loader",
+              "https",
+              "load-test",
+              "performance",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -602,12 +962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ab-like benchmark tool run on multi-core cpu",
+            "homepage": null,
             "id": 8926089,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-08-10T05:52:04Z",
+            "open_issues": 3,
             "owner": "parkghost",
             "repo": "gohttpbench",
-            "stars": 226
+            "stars": 226,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -618,12 +983,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP load testing for CI/CD — 115K req/s, single binary, JSON output",
+            "homepage": null,
             "id": 39696608,
             "language": "Crystal",
+            "license": "MIT",
             "last_commit": "2026-08-11T10:24:27Z",
+            "open_issues": 0,
             "owner": "sdogruyol",
             "repo": "cryload",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "benchmark",
+              "cli",
+              "command-line",
+              "crystal",
+              "http",
+              "load-testing"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -634,12 +1011,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a benchmarking&stressing tool that can send raw HTTP requests",
+            "homepage": null,
             "id": 374409809,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-09-24T22:46:30Z",
+            "open_issues": 0,
             "owner": "utkusen",
             "repo": "reqstress",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "benchmarking",
+              "ddos",
+              "dos-attack",
+              "stresser"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -650,12 +1037,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Http benchmark (kinda ab) with autoadjustment and charts based on fasthttp library",
+            "homepage": null,
             "id": 50277214,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-02-21T05:58:41Z",
+            "open_issues": 5,
             "owner": "hagen1778",
             "repo": "fasthttploader",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "golang",
+              "http-benchmarking"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -666,12 +1061,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪓 a multi-threaded, low-bandwidth HTTP DOS tool",
+            "homepage": null,
             "id": 181123013,
             "language": "Rust",
+            "license": null,
             "last_commit": "2019-05-01T17:02:47Z",
+            "open_issues": 2,
             "owner": "ajmwagar",
             "repo": "lor-axe",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "dos",
+              "hacking",
+              "rust-library",
+              "security",
+              "slowloris",
+              "ssl",
+              "tcp"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -682,12 +1090,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast HTTP benchmarking tool",
+            "homepage": null,
             "id": 2997078,
             "language": "C",
+            "license": null,
             "last_commit": "2017-10-14T14:41:05Z",
+            "open_issues": 2,
             "owner": "arut",
             "repo": "htstress",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -698,12 +1111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache-Benchmark-Like Tool Written in Rust",
+            "homepage": null,
             "id": 152731833,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2018-10-14T18:21:10Z",
+            "open_issues": 0,
             "owner": "rylev",
             "repo": "welle",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -714,12 +1132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ping an HTTP server",
+            "homepage": null,
             "id": 389137189,
             "language": "C",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-07T12:01:03Z",
+            "open_issues": 10,
             "owner": "folkertvanheusden",
             "repo": "HTTPing",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -730,12 +1153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and high-throughput HTTP flood program",
+            "homepage": null,
             "id": 6750537,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2013-05-27T12:27:50Z",
+            "open_issues": 1,
             "owner": "opsengine",
             "repo": "inundator",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -746,12 +1174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Современный инструмент тестирования нагрузки HTTP серверов",
+            "homepage": null,
             "id": 19623335,
             "language": "Go",
+            "license": null,
             "last_commit": "2021-06-21T20:56:47Z",
+            "open_issues": 2,
             "owner": "byorty",
             "repo": "mgun",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -762,12 +1195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP benchmark utility",
+            "homepage": null,
             "id": 327425946,
             "language": "C",
+            "license": null,
             "last_commit": "2023-04-25T20:23:53Z",
+            "open_issues": 0,
             "owner": "fredrikwidlund",
             "repo": "pounce",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -778,12 +1216,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A constant/linear throughput load generator in Zig ⚡",
+            "homepage": "https://zoxy.io/zrk",
             "id": 1286097501,
             "language": "Zig",
-            "last_commit": "2026-08-27T20:22:34Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T14:43:49Z",
+            "open_issues": 1,
             "owner": "zoxy-io",
             "repo": "zrk",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "benchmarking",
+              "hdr-histogram",
+              "load-generator",
+              "load-testing",
+              "zig"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -794,12 +1243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang HTTP Micro Benchmarker",
+            "homepage": null,
             "id": 134018310,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-12-31T00:48:19Z",
+            "open_issues": 1,
             "owner": "TylerBrock",
             "repo": "thrash",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -810,12 +1264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, async Python HTTP benchmarking tool inspired by wrk and Apache ab. Supports concurrent connections, latency breakdown,      percentile stats, SLO thresholds, rate limiting, scripted scenarios, live TUI dashboard, multi-URL testing, distributed master/worker   mode, and observability export (OpenTelemetry, Prometheus).",
+            "homepage": "https://github.com/kurok/pywrkr",
             "id": 1178704764,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T09:57:22Z",
+            "open_issues": 0,
             "owner": "kurok",
             "repo": "pywrkr",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         }
@@ -832,12 +1291,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+            "homepage": "https://hoppscotch.io",
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T07:35:14Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T14:30:09Z",
+            "open_issues": 804,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80111
+            "stars": 80114,
+            "topics": [
+              "api",
+              "api-client",
+              "api-rest",
+              "api-testing",
+              "developer-tools",
+              "graphql",
+              "http",
+              "http-client",
+              "pwa",
+              "rest",
+              "rest-api",
+              "spa",
+              "testing",
+              "testing-tools",
+              "tools",
+              "vue",
+              "vuejs",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -848,12 +1331,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+            "homepage": "https://curl.se/",
             "id": 569041,
             "language": "C",
-            "last_commit": "2026-08-28T12:56:47Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:06:06Z",
+            "open_issues": 41,
             "owner": "curl",
             "repo": "curl",
-            "stars": 42705
+            "stars": 42707,
+            "topics": [
+              "c",
+              "client",
+              "curl",
+              "ftp",
+              "gopher",
+              "hacktoberfest",
+              "http",
+              "https",
+              "imaps",
+              "ldap",
+              "libcurl",
+              "library",
+              "mqtt",
+              "pop3",
+              "scp",
+              "sftp",
+              "transfer-data",
+              "transferring-data",
+              "user-agent",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -864,12 +1373,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+            "homepage": "https://httpie.io",
             "id": 3544424,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-12-17T17:30:35Z",
+            "open_issues": 335,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38465
+            "stars": 38465,
+            "topics": [
+              "api",
+              "api-client",
+              "api-testing",
+              "cli",
+              "client",
+              "curl",
+              "debugging",
+              "developer-tools",
+              "development",
+              "devops",
+              "http",
+              "http-client",
+              "httpie",
+              "json",
+              "python",
+              "rest",
+              "rest-api",
+              "terminal",
+              "usability",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -880,12 +1415,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line JSON processor",
+            "homepage": "https://jqlang.org",
             "id": 5101141,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T15:06:16Z",
+            "open_issues": 472,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35498
+            "stars": 35506,
+            "topics": [
+              "jq"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -896,12 +1438,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hurl, run and test HTTP requests with plain text.",
+            "homepage": "https://hurl.dev",
             "id": 290243101,
             "language": "Rust",
-            "last_commit": "2026-08-28T12:34:06Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:48:13Z",
+            "open_issues": 203,
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19162
+            "stars": 19163,
+            "topics": [
+              "api-testing",
+              "cli",
+              "curl",
+              "http",
+              "http-client",
+              "integration-testing",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -912,12 +1468,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+            "homepage": "https://keploy.io",
             "id": 449649393,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:45:03Z",
+            "open_issues": 716,
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 18434
+            "stars": 18435,
+            "topics": [
+              "agentic-ai",
+              "ai-testing-tool",
+              "api-testing",
+              "code-quality",
+              "mock",
+              "mock-data-generator",
+              "mock-framework",
+              "test-automation",
+              "test-automation-framework",
+              "test-generation",
+              "testing",
+              "testing-library",
+              "testing-tool",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -928,12 +1504,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transpile curl commands into Python, JavaScript and 27 other languages",
+            "homepage": "https://curlconverter.com",
             "id": 28468993,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-10T05:06:56Z",
+            "open_issues": 43,
             "owner": "curlconverter",
             "repo": "curlconverter",
-            "stars": 8171
+            "stars": 8171,
+            "topics": [
+              "curl",
+              "tree-sitter"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -944,12 +1528,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Friendly and fast tool for sending HTTP requests",
+            "homepage": null,
             "id": 294521053,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-23T11:18:23Z",
+            "open_issues": 38,
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8042
+            "stars": 8042,
+            "topics": [
+              "api-testing",
+              "cli",
+              "developer-tools",
+              "http-client",
+              "rust",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -960,12 +1556,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "curl statistics made simple",
+            "homepage": null,
             "id": 66913302,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-08T10:04:34Z",
+            "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6218
+            "stars": 6218,
+            "topics": [
+              "cli",
+              "curl",
+              "http",
+              "python",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -976,12 +1583,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collaborative list of great resources about RESTful API architecture, development, test, and performance",
+            "homepage": "https://github.com/marmelab/awesome-rest",
             "id": 35204235,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-13T08:22:14Z",
+            "open_issues": 16,
             "owner": "marmelab",
             "repo": "awesome-rest",
-            "stars": 3908
+            "stars": 3910,
+            "topics": [
+              "awesome",
+              "rest"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -992,12 +1607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go implement CLI, cURL-like tool for humans",
+            "homepage": null,
             "id": 33541385,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-29T11:43:43Z",
+            "open_issues": 29,
             "owner": "astaxie",
             "repo": "bat",
-            "stars": 2564
+            "stars": 2564,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -1008,12 +1628,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of awesome API clients. Postman and Insomnia alternatives",
+            "homepage": null,
             "id": 698927866,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-11T13:41:13Z",
+            "open_issues": 3,
             "owner": "stepci",
             "repo": "awesome-api-clients",
-            "stars": 1107
+            "stars": 1107,
+            "topics": [
+              "api-client",
+              "api-rest",
+              "api-testing",
+              "http-client",
+              "insomnia",
+              "kong",
+              "postman"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -1024,12 +1657,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+            "homepage": "https://vostride.com",
             "id": 1232322871,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T18:44:59Z",
+            "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 884
+            "stars": 913,
+            "topics": [
+              "ai-agents",
+              "ai-testing",
+              "anthropic",
+              "autonomous-agents",
+              "browser-automation",
+              "chatgpt",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "developer-tools",
+              "dsh-plugin",
+              "end-to-end-testing",
+              "frontend",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "openai",
+              "playwright",
+              "qa-automation"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -1040,12 +1699,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses.",
+            "homepage": null,
             "id": 398508796,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-08-05T16:56:15Z",
+            "open_issues": 8,
             "owner": "xnbox",
             "repo": "DeepfakeHTTP",
-            "stars": 526
+            "stars": 526,
+            "topics": [
+              "api",
+              "demo",
+              "dummy",
+              "dump",
+              "graphql",
+              "http",
+              "http-server",
+              "mock",
+              "mocks-server",
+              "poc",
+              "qa",
+              "qa-automation",
+              "rest",
+              "rest-api",
+              "restful-api",
+              "spies",
+              "stub",
+              "test-automation",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -1056,12 +1741,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON Aggregation CLI",
+            "homepage": null,
             "id": 124478010,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-08-29T11:04:00Z",
+            "open_issues": 2,
             "owner": "rs",
             "repo": "jaggr",
-            "stars": 484
+            "stars": 484,
+            "topics": [
+              "cli",
+              "golang",
+              "jplot",
+              "json",
+              "monitoring",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -1072,12 +1769,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💎 A curated list of awesome HTTP Clients for exploring, debugging, and testing APIs. Best place to find postman alternatives.",
+            "homepage": null,
             "id": 422899208,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-09T08:48:51Z",
+            "open_issues": 1,
             "owner": "mrmykey",
             "repo": "awesome-http-clients",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         }
@@ -1086,15 +1788,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:57:44.372Z",
+    "last_updated": "2026-08-29T04:25:16.759Z",
     "original_repository_info": {
       "archived": false,
+      "description": "HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)",
+      "homepage": null,
       "id": 83001364,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-20T19:12:26Z",
+      "open_issues": 19,
       "owner": "denji",
       "repo": "awesome-http-benchmark",
-      "stars": 3766
+      "stars": 3767,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "benchmark",
+        "canary",
+        "development",
+        "http",
+        "http-benchmarking",
+        "http-pipelining",
+        "http2",
+        "http3",
+        "https",
+        "modern-dev",
+        "modern-web",
+        "rest-api",
+        "restful",
+        "restful-api",
+        "testing",
+        "tools"
+      ]
     },
     "original_repository_sha": "e1b9c1da74e0996597bdd04d0d6bc07fb24d884a",
     "enhanced_repository": "enhansome/enhansome-http-benchmark",
