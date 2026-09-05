@@ -4,11 +4,11 @@
 
 # Awesome HTTP(S) Benchmark Tools with stars
 
-* [**wrk**](https://github.com/wg/wrk) ⭐ 40,404 | 🐛 203 | 🌐 C | 📅 2023-12-30 – multithreaded, ~~but doesn't offer concurrent connections and a keepalive switch~~, written in `C`/`Lua`
-* [**k6**](https://github.com/loadimpact/k6) ⭐ 31,383 | 🐛 808 | 🌐 Go | 📅 2026-09-03 - A modern load testing tool scriptable in ES6 JS with support for HTTP/1.1, HTTP/2.0 and WebSocket, written in Go (`golang`)
-* [**vegeta**](https://github.com/tsenart/vegeta) ⭐ 25,178 | 🐛 122 | 🌐 Go | 📅 2026-02-16 – HTTP load testing tool and library, written in Go (`golang`)
-* [**hey**](https://github.com/rakyll/hey) ⭐ 20,254 | 🐛 189 | 🌐 Go | 📅 2026-01-10 – HTTP(S) load generator, ApacheBench (`ab`) replacement, formerly known as [**rakyll/boom**](https://github.com/rakyll/boom) ⚠️ Archived, written in Go (`golang`)
-* [**oha**](https://github.com/hatoo/oha) ⭐ 10,524 | 🐛 57 | 🌐 Rust | 📅 2026-08-23 – HTTP load generator, inspired by rakyll/hey with tui animation, written in `Rust`
+* [**wrk**](https://github.com/wg/wrk) ⭐ 40,402 | 🐛 203 | 🌐 C | 📅 2023-12-30 – multithreaded, ~~but doesn't offer concurrent connections and a keepalive switch~~, written in `C`/`Lua`
+* [**k6**](https://github.com/loadimpact/k6) ⭐ 31,393 | 🐛 811 | 🌐 Go | 📅 2026-09-04 - A modern load testing tool scriptable in ES6 JS with support for HTTP/1.1, HTTP/2.0 and WebSocket, written in Go (`golang`)
+* [**vegeta**](https://github.com/tsenart/vegeta) ⭐ 25,179 | 🐛 122 | 🌐 Go | 📅 2026-02-16 – HTTP load testing tool and library, written in Go (`golang`)
+* [**hey**](https://github.com/rakyll/hey) ⭐ 20,256 | 🐛 189 | 🌐 Go | 📅 2026-01-10 – HTTP(S) load generator, ApacheBench (`ab`) replacement, formerly known as [**rakyll/boom**](https://github.com/rakyll/boom) ⚠️ Archived, written in Go (`golang`)
+* [**oha**](https://github.com/hatoo/oha) ⭐ 10,526 | 🐛 57 | 🌐 Rust | 📅 2026-08-23 – HTTP load generator, inspired by rakyll/hey with tui animation, written in `Rust`
 * [**ddosify**](https://github.com/ddosify/ddosify) ⭐ 8,520 | 🐛 19 | 🌐 Go | 📅 2026-03-04 – High-performance load testing tool, written in Go (`golang`)
 * [**autocannon**](https://github.com/mcollina/autocannon) ⭐ 8,510 | 🐛 58 | 🌐 JavaScript | 📅 2026-05-16 – fast HTTP/1.1 benchmarking tool written in Node.js
 * [**bombardier**](https://github.com/codesenberg/bombardier) ⭐ 6,830 | 🐛 28 | 🌐 Go | 📅 2026-08-25 – Fast crossplatform HTTP benchmarking tool, written in Go (`golang`)
@@ -24,14 +24,14 @@
 * [**drill**](https://github.com/fcsonline/drill) ⭐ 2,306 | 🐛 39 | 🌐 Rust | 📅 2026-09-03 – Drill is a HTTP load testing application inspired by Ansible syntax, written in `Rust`
 * [**NBomber**](https://github.com/PragmaticFlow/NBomber) ⭐ 2,236 | 🐛 174 | 🌐 CSS | 📅 2026-08-17 – Modern and flexible load testing framework for Pull and Push scenarios, designed to test any system regardless a protocol (HTTP/WebSockets/AMQP etc) or a semantic model (Pull/Push), written in F# (`F Sharp`)
 * [**goad**](https://github.com/gophergala2016/goad) ⚠️ Archived – Goad is an AWS Lambda powered, highly distributed, load testing tool, written in Go (`golang`)
-* [**slowhttptest**](https://github.com/shekyan/slowhttptest) ⭐ 1,648 | 🐛 25 | 🌐 C++ | 📅 2026-09-04 – Application Layer DoS attack simulator, written in `C++`
+* [**slowhttptest**](https://github.com/shekyan/slowhttptest) ⭐ 1,648 | 🐛 3 | 🌐 C++ | 📅 2026-09-04 – Application Layer DoS attack simulator, written in `C++`
 * [**Netling**](https://github.com/hallatore/Netling) ⭐ 1,347 | 🐛 13 | 🌐 C# | 📅 2022-12-05 – Netling is a load tester client for easy web testing., written in C# (`C Sharp`)
-* [**go-wrk**](https://github.com/tsliwowicz/go-wrk) ⭐ 1,062 | 🐛 10 | 🌐 Go | 📅 2026-07-04 – a HTTP benchmarking tool based in spirit on the excellent wrk tool ([`wg/wrk`](https://github.com/wg/wrk) ⭐ 40,404 | 🐛 203 | 🌐 C | 📅 2023-12-30), written in Go (`golang`)
+* [**go-wrk**](https://github.com/tsliwowicz/go-wrk) ⭐ 1,062 | 🐛 10 | 🌐 Go | 📅 2026-07-04 – a HTTP benchmarking tool based in spirit on the excellent wrk tool ([`wg/wrk`](https://github.com/wg/wrk) ⭐ 40,402 | 🐛 203 | 🌐 C | 📅 2023-12-30), written in Go (`golang`)
 * [**httperf**](https://github.com/httperf/httperf) ⭐ 1,018 | 🐛 54 | 🌐 C | 📅 2022-04-20 – difficult configuration, slow and single threaded, written in `C`
 * [**goose**](https://github.com/tag1consulting/goose) ⭐ 994 | 🐛 43 | 🌐 Rust | 📅 2026-06-28 - A modern, high-performance and flexible distributed HTTP(S) load testing tool, written in `Rust`
 * [**cassowary**](https://github.com/rogerwelin/cassowary) ⭐ 812 | 🐛 7 | 🌐 Go | 📅 2025-09-11 – is a modern HTTP(S), intuitive & cross-platform load testing tool, written in Go (`golang`)
 * [**baloo**](https://github.com/h2non/baloo) ⭐ 779 | 🐛 9 | 🌐 Go | 📅 2022-08-10 – Expressive end-to-end HTTP API testing made easy, written in Go (`golang`)
-* [**rewrk**](https://github.com/ChillFish8/rewrk) ⭐ 587 | 🐛 18 | 🌐 Rust | 📅 2024-03-25 – A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks, written in `Rust`.
+* [**rewrk**](https://github.com/ChillFish8/rewrk) ⭐ 588 | 🐛 18 | 🌐 Rust | 📅 2024-03-25 – A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks, written in `Rust`.
 * [**molotov**](https://github.com/tarekziade/molotov) ⭐ 481 | 🐛 19 | 🌐 Python | 📅 2024-03-18 - A simple `Python` 3.7+ tool to write load tests
 * [**pewpew**](https://github.com/bengadbois/pewpew) ⭐ 457 | 🐛 1 | 🌐 Go | 📅 2026-03-28 - Flexible HTTP command line stress testing tool for websites and web services, written in Go (`golang`)
 * [**gobench**](https://github.com/cmpxchg16/gobench) ⭐ 443 | 🐛 21 | 🌐 Go | 📅 2023-01-24 – HTTP/HTTPS load testing and benchmarking tool, written in Go (`golang`)
@@ -74,22 +74,22 @@
 
 # Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 
-* [**hoppscotch**](https://github.com/hoppscotch/hoppscotch) ⭐ 80,192 | 🐛 809 | 🌐 TypeScript | 📅 2026-08-31 - API request builder
-* [**curl**](https://github.com/curl/curl) ⭐ 42,749 | 🐛 46 | 🌐 C | 📅 2026-09-04 – Powerful features command-line tool for transferring data specified with URL syntax, written in `C`
+* [**hoppscotch**](https://github.com/hoppscotch/hoppscotch) ⭐ 80,205 | 🐛 811 | 🌐 TypeScript | 📅 2026-08-31 - API request builder
+* [**curl**](https://github.com/curl/curl) ⭐ 42,755 | 🐛 38 | 🌐 C | 📅 2026-09-04 – Powerful features command-line tool for transferring data specified with URL syntax, written in `C`
   * [Online curl command line builde](https://curlbuilder.com/)
-* [**httpie**](https://github.com/jkbrzt/httpie) ⭐ 38,480 | 🐛 336 | 🌐 Python | 📅 2024-12-17 – client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, written in `Python`
-* [**jq**](https://github.com/stedolan/jq) ⭐ 35,545 | 🐛 477 | 🌐 C | 📅 2026-09-01 – is a lightweight and flexible command-line JSON processor, written in `C`
-* [**hurl**](https://github.com/Orange-OpenSource/hurl) ⭐ 19,177 | 🐛 205 | 🌐 Rust | 📅 2026-09-03 - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format
-* [**Keploy**](https://github.com/keploy/keploy) ⭐ 18,431 | 🐛 720 | 🌐 Go | 📅 2026-09-04 - Open source ai testing platform that records user traffic as test cases and mocks (infrastructure virtualisation along withDBs) and uses AI to expand the API, schema and code coverage of the backend regression test suite. It also auto-generates tests with assertions and is used for contract testing, functional and performance testing using AI.
-* [**curlconverter**](https://github.com/NickCarneiro/curlconverter) ⭐ 8,172 | 🐛 43 | 🌐 TypeScript | 📅 2026-03-10 – convert curl commands to python, javascript, php
-* [**xh**](https://github.com/ducaale/xh) ⭐ 8,054 | 🐛 38 | 🌐 Rust | 📅 2026-08-23 – Yet another [HTTPie](https://httpie.org) clone, written in `Rust`
+* [**httpie**](https://github.com/jkbrzt/httpie) ⭐ 38,483 | 🐛 337 | 🌐 Python | 📅 2024-12-17 – client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, written in `Python`
+* [**jq**](https://github.com/stedolan/jq) ⭐ 35,552 | 🐛 477 | 🌐 C | 📅 2026-09-01 – is a lightweight and flexible command-line JSON processor, written in `C`
+* [**hurl**](https://github.com/Orange-OpenSource/hurl) ⭐ 19,184 | 🐛 207 | 🌐 Rust | 📅 2026-09-05 - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format
+* [**Keploy**](https://github.com/keploy/keploy) ⭐ 18,437 | 🐛 720 | 🌐 Go | 📅 2026-09-04 - Open source ai testing platform that records user traffic as test cases and mocks (infrastructure virtualisation along withDBs) and uses AI to expand the API, schema and code coverage of the backend regression test suite. It also auto-generates tests with assertions and is used for contract testing, functional and performance testing using AI.
+* [**curlconverter**](https://github.com/NickCarneiro/curlconverter) ⭐ 8,171 | 🐛 43 | 🌐 TypeScript | 📅 2026-03-10 – convert curl commands to python, javascript, php
+* [**xh**](https://github.com/ducaale/xh) ⭐ 8,057 | 🐛 37 | 🌐 Rust | 📅 2026-09-04 – Yet another [HTTPie](https://httpie.org) clone, written in `Rust`
 * [**httpstat**](https://github.com/reorx/httpstat) ⭐ 6,219 | 🐛 9 | 🌐 Python | 📅 2026-04-08 - It's like curl -v, with colours
 * <https://github.com/marmelab/awesome-rest> ⭐ 3,913 | 🐛 16 | 📅 2026-05-13
 * [**bat**](https://github.com/astaxie/bat) ⭐ 2,564 | 🐛 29 | 🌐 Go | 📅 2022-10-29 – Go implement CLI, cURL-like tool for humans, written in Go (`golang`)
 * <https://github.com/stepci/awesome-api-clients> ⭐ 1,109 | 🐛 3 | 📅 2026-05-11
 * [**agent-qa**](https://github.com/vostride/agent-qa) ⭐ 901 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 – Self-improving QA agent for natural-language web and mobile regression tests, written in `TypeScript`
 * [**DeepfakeHTTP**](https://github.com/xnbox/DeepfakeHTTP) ⭐ 526 | 🐛 8 | 🌐 Java | 📅 2022-08-05 – is a web server that uses HTTP dumps as a source for responses, written in `Java`
-* [**jaggr**](https://github.com/rs/jaggr) ⭐ 484 | 🐛 2 | 🌐 Go | 📅 2024-08-29 – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) ⭐ 25,178 | 🐛 122 | 🌐 Go | 📅 2026-02-16 with [jplot](https://github.com/rs/jplot) ⭐ 1,178 | 🐛 10 | 🌐 Go | 📅 2025-10-20, written in Go (`golang`)
+* [**jaggr**](https://github.com/rs/jaggr) ⭐ 484 | 🐛 2 | 🌐 Go | 📅 2024-08-29 – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) ⭐ 25,179 | 🐛 122 | 🌐 Go | 📅 2026-02-16 with [jplot](https://github.com/rs/jplot) ⭐ 1,178 | 🐛 10 | 🌐 Go | 📅 2025-10-20, written in Go (`golang`)
 * <https://github.com/mrmykey/awesome-http-clients> ⭐ 166 | 🐛 1 | 📅 2026-08-09
 * [**hitt**](https://github.com/hougesen/hitt) ⭐ 11 | 🐛 7 | 🌐 Rust | 📅 2026-08-16 - File based HTTP testing tool focused on speed and simplicity, written in `Rust`
 * [**redirect-checker**](https://github.com/brancogao/redirect-checker) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-17 – HTTP redirect chain analyzer, detect redirect loops, measure performance, multiple User-Agent presets, written in `TypeScript` (Cloudflare Workers)
@@ -120,4 +120,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
