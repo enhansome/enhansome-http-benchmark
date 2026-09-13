@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40414,
+            "stars": 40415,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T21:03:51Z",
-            "open_issues": 799,
+            "last_commit": "2026-09-12T11:19:33Z",
+            "open_issues": 802,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31449,
+            "stars": 31459,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 122,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25187,
+            "stars": 25188,
             "topics": [
               "benchmarking",
               "go",
@@ -94,7 +94,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-01-10T20:54:51Z",
-            "open_issues": 189,
+            "open_issues": 188,
             "owner": "rakyll",
             "repo": "hey",
             "stars": 20260,
@@ -115,10 +115,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-10T04:43:05Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10541,
+            "stars": 10544,
             "topics": [
               "benchmark",
               "cli",
@@ -129,39 +129,6 @@
               "load-testing",
               "rust",
               "tui"
-            ]
-          },
-          "first_seen": "2026-08-28T12:57:44.372Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ddosify",
-          "description": "High-performance load testing tool, written in Go ()",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing",
-            "homepage": "https://getanteon.com",
-            "id": 392596825,
-            "language": "Go",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-03-04T10:47:26Z",
-            "open_issues": 19,
-            "owner": "getanteon",
-            "repo": "anteon",
-            "stars": 8516,
-            "topics": [
-              "ddosify",
-              "docker",
-              "go",
-              "golang",
-              "hacktoberfest",
-              "k8s",
-              "kubernetes",
-              "load-generator",
-              "load-testing",
-              "loadtesting",
-              "performance-testing"
             ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -182,8 +149,41 @@
             "open_issues": 58,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8514,
+            "stars": 8515,
             "topics": []
+          },
+          "first_seen": "2026-08-28T12:57:44.372Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ddosify",
+          "description": "High-performance load testing tool, written in Go ()",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing",
+            "homepage": "https://getanteon.com",
+            "id": 392596825,
+            "language": "Go",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-03-04T10:47:26Z",
+            "open_issues": 19,
+            "owner": "getanteon",
+            "repo": "anteon",
+            "stars": 8515,
+            "topics": [
+              "ddosify",
+              "docker",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "k8s",
+              "kubernetes",
+              "load-generator",
+              "load-testing",
+              "loadtesting",
+              "performance-testing"
+            ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
         },
@@ -258,7 +258,7 @@
             "open_issues": 20,
             "owner": "six-ddc",
             "repo": "plow",
-            "stars": 4517,
+            "stars": 4516,
             "topics": [
               "apachebench",
               "cli",
@@ -347,7 +347,7 @@
             "id": 5150693,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T09:53:39Z",
+            "last_commit": "2026-09-12T13:47:19Z",
             "open_issues": 85,
             "owner": "yandex",
             "repo": "yandex-tank",
@@ -548,7 +548,7 @@
             "open_issues": 43,
             "owner": "tag1consulting",
             "repo": "goose",
-            "stars": 996,
+            "stars": 997,
             "topics": [
               "goose",
               "http",
@@ -849,7 +849,7 @@
             "open_issues": 10,
             "owner": "apigee",
             "repo": "apib",
-            "stars": 319,
+            "stars": 320,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -1221,8 +1221,8 @@
             "id": 1286097501,
             "language": "Zig",
             "license": "MIT",
-            "last_commit": "2026-09-05T15:26:26Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-12T13:39:24Z",
+            "open_issues": 2,
             "owner": "zoxy-io",
             "repo": "zrk",
             "stars": 18,
@@ -1296,11 +1296,11 @@
             "id": 203587744,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T22:31:29Z",
+            "last_commit": "2026-09-12T10:52:08Z",
             "open_issues": 821,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80289,
+            "stars": 80299,
             "topics": [
               "api",
               "api-client",
@@ -1336,11 +1336,11 @@
             "id": 569041,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T21:35:11Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-13T04:18:28Z",
+            "open_issues": 48,
             "owner": "curl",
             "repo": "curl",
-            "stars": 42834,
+            "stars": 42840,
             "topics": [
               "c",
               "client",
@@ -1382,7 +1382,7 @@
             "open_issues": 338,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38501,
+            "stars": 38503,
             "topics": [
               "api",
               "api-client",
@@ -1424,7 +1424,7 @@
             "open_issues": 480,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35588,
+            "stars": 35591,
             "topics": [
               "jq"
             ]
@@ -1447,7 +1447,7 @@
             "open_issues": 203,
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19193,
+            "stars": 19195,
             "topics": [
               "api-testing",
               "cli",
@@ -1473,11 +1473,11 @@
             "id": 449649393,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T18:23:22Z",
-            "open_issues": 724,
+            "last_commit": "2026-09-12T19:03:01Z",
+            "open_issues": 727,
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 18456,
+            "stars": 18451,
             "topics": [
               "agentic-ai",
               "ai-testing-tool",
@@ -1537,7 +1537,7 @@
             "open_issues": 37,
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8069,
+            "stars": 8070,
             "topics": [
               "api-testing",
               "cli",
@@ -1774,11 +1774,11 @@
             "id": 1350419329,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T05:28:04Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-13T04:20:39Z",
+            "open_issues": 8,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 229,
+            "stars": 236,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -1880,7 +1880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T05:54:56.867Z",
+    "last_updated": "2026-09-13T06:17:58.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)",
