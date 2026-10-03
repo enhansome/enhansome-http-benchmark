@@ -7,7 +7,7 @@
 * [**wrk**](https://github.com/wg/wrk) ⭐ 40,417 | 🐛 203 | 🌐 C | 📅 2023-12-30 – multithreaded, ~~but doesn't offer concurrent connections and a keepalive switch~~, written in `C`/`Lua`
 * [**k6**](https://github.com/loadimpact/k6) ⭐ 31,763 | 🐛 780 | 🌐 Go | 📅 2026-10-02 - A modern load testing tool scriptable in ES6 JS with support for HTTP/1.1, HTTP/2.0 and WebSocket, written in Go (`golang`)
 * [**vegeta**](https://github.com/tsenart/vegeta) ⭐ 25,213 | 🐛 124 | 🌐 Go | 📅 2026-09-24 – HTTP load testing tool and library, written in Go (`golang`)
-* [**hey**](https://github.com/rakyll/hey) ⭐ 20,623 | 🐛 190 | 🌐 Go | 📅 2026-01-10 – HTTP(S) load generator, ApacheBench (`ab`) replacement, formerly known as [**rakyll/boom**](https://github.com/rakyll/boom) ⚠️ Archived, written in Go (`golang`)
+* [**hey**](https://github.com/rakyll/hey) ⭐ 20,624 | 🐛 190 | 🌐 Go | 📅 2026-01-10 – HTTP(S) load generator, ApacheBench (`ab`) replacement, formerly known as [**rakyll/boom**](https://github.com/rakyll/boom) ⚠️ Archived, written in Go (`golang`)
 * [**oha**](https://github.com/hatoo/oha) ⭐ 10,574 | 🐛 58 | 🌐 Rust | 📅 2026-09-10 – HTTP load generator, inspired by rakyll/hey with tui animation, written in `Rust`
 * [**autocannon**](https://github.com/mcollina/autocannon) ⭐ 8,527 | 🐛 58 | 🌐 JavaScript | 📅 2026-05-16 – fast HTTP/1.1 benchmarking tool written in Node.js
 * [**ddosify**](https://github.com/ddosify/ddosify) ⭐ 8,521 | 🐛 19 | 🌐 Go | 📅 2026-03-04 – High-performance load testing tool, written in Go (`golang`)

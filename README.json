@@ -97,7 +97,7 @@
             "open_issues": 190,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20623,
+            "stars": 20624,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -1882,7 +1882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:48:17.102Z",
+    "last_updated": "2026-10-03T06:37:15.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)",
