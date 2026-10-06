@@ -40,7 +40,7 @@
             "open_issues": 776,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31800,
+            "stars": 31802,
             "topics": [
               "es6",
               "go",
@@ -118,7 +118,7 @@
             "open_issues": 58,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10577,
+            "stars": 10578,
             "topics": [
               "benchmark",
               "cli",
@@ -170,7 +170,7 @@
             "open_issues": 19,
             "owner": "getanteon",
             "repo": "anteon",
-            "stars": 8520,
+            "stars": 8519,
             "topics": [
               "ddosify",
               "docker",
@@ -403,7 +403,7 @@
             "language": "CSS",
             "license": null,
             "last_commit": "2026-08-17T13:22:46Z",
-            "open_issues": 174,
+            "open_issues": 172,
             "owner": "PragmaticFlow",
             "repo": "NBomber",
             "stars": 2242,
@@ -1302,7 +1302,7 @@
             "open_issues": 847,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80573,
+            "stars": 80575,
             "topics": [
               "api",
               "api-client",
@@ -1338,11 +1338,11 @@
             "id": 569041,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T07:35:49Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-06T08:35:48Z",
+            "open_issues": 72,
             "owner": "curl",
             "repo": "curl",
-            "stars": 43102,
+            "stars": 43105,
             "topics": [
               "c",
               "client",
@@ -1384,7 +1384,7 @@
             "open_issues": 343,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38719,
+            "stars": 38720,
             "topics": [
               "api",
               "api-client",
@@ -1422,11 +1422,11 @@
             "id": 5101141,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T06:39:24Z",
-            "open_issues": 428,
+            "last_commit": "2026-10-06T07:48:28Z",
+            "open_issues": 426,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35751,
+            "stars": 35750,
             "topics": [
               "jq"
             ]
@@ -1475,11 +1475,11 @@
             "id": 449649393,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T06:34:43Z",
-            "open_issues": 768,
+            "last_commit": "2026-10-06T10:23:19Z",
+            "open_issues": 767,
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 18537,
+            "stars": 18538,
             "topics": [
               "agentic-ai",
               "ai-testing-tool",
@@ -1882,7 +1882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T07:38:29.814Z",
+    "last_updated": "2026-10-06T10:36:16.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)",
