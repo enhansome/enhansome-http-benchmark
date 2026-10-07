@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40418,
+            "stars": 40417,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T06:01:54Z",
-            "open_issues": 776,
+            "last_commit": "2026-10-06T12:00:14Z",
+            "open_issues": 775,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31802,
+            "stars": 31820,
             "topics": [
               "es6",
               "go",
@@ -97,7 +97,7 @@
             "open_issues": 190,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20642,
+            "stars": 20645,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -149,7 +149,7 @@
             "open_issues": 58,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8527,
+            "stars": 8526,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -203,7 +203,7 @@
             "open_issues": 29,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6838,
+            "stars": 6839,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -237,7 +237,7 @@
             "open_issues": 105,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4634,
+            "stars": 4635,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -318,7 +318,7 @@
             "open_issues": 91,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3729,
+            "stars": 3732,
             "topics": [
               "go",
               "golang",
@@ -347,8 +347,8 @@
             "id": 5150693,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T09:32:23Z",
-            "open_issues": 93,
+            "last_commit": "2026-10-06T21:07:12Z",
+            "open_issues": 94,
             "owner": "yandex",
             "repo": "yandex-tank",
             "stars": 2599,
@@ -403,7 +403,7 @@
             "language": "CSS",
             "license": null,
             "last_commit": "2026-08-17T13:22:46Z",
-            "open_issues": 172,
+            "open_issues": 171,
             "owner": "PragmaticFlow",
             "repo": "NBomber",
             "stars": 2242,
@@ -544,8 +544,8 @@
             "id": 244303246,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T05:43:14Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-07T06:56:30Z",
+            "open_issues": 69,
             "owner": "tag1consulting",
             "repo": "goose",
             "stars": 1000,
@@ -1298,11 +1298,11 @@
             "id": 203587744,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T14:58:34Z",
-            "open_issues": 847,
+            "last_commit": "2026-10-07T05:46:25Z",
+            "open_issues": 848,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80575,
+            "stars": 80582,
             "topics": [
               "api",
               "api-client",
@@ -1338,11 +1338,11 @@
             "id": 569041,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T08:35:48Z",
-            "open_issues": 72,
+            "last_commit": "2026-10-07T06:29:49Z",
+            "open_issues": 70,
             "owner": "curl",
             "repo": "curl",
-            "stars": 43105,
+            "stars": 43126,
             "topics": [
               "c",
               "client",
@@ -1381,10 +1381,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2024-12-17T17:30:35Z",
-            "open_issues": 343,
+            "open_issues": 344,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38720,
+            "stars": 38739,
             "topics": [
               "api",
               "api-client",
@@ -1423,10 +1423,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-06T07:48:28Z",
-            "open_issues": 426,
+            "open_issues": 427,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35750,
+            "stars": 35751,
             "topics": [
               "jq"
             ]
@@ -1445,11 +1445,11 @@
             "id": 290243101,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T08:34:05Z",
+            "last_commit": "2026-10-07T07:17:51Z",
             "open_issues": 198,
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19237,
+            "stars": 19242,
             "topics": [
               "api-testing",
               "cli",
@@ -1475,11 +1475,11 @@
             "id": 449649393,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:23:19Z",
-            "open_issues": 767,
+            "last_commit": "2026-10-07T05:18:52Z",
+            "open_issues": 764,
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 18538,
+            "stars": 18539,
             "topics": [
               "agentic-ai",
               "ai-testing-tool",
@@ -1536,10 +1536,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-05T09:34:49Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8117,
+            "stars": 8120,
             "topics": [
               "api-testing",
               "cli",
@@ -1618,7 +1618,7 @@
             "open_issues": 29,
             "owner": "astaxie",
             "repo": "bat",
-            "stars": 2562,
+            "stars": 2561,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -1668,7 +1668,7 @@
             "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 899,
+            "stars": 902,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -1710,7 +1710,7 @@
             "open_issues": 8,
             "owner": "xnbox",
             "repo": "DeepfakeHTTP",
-            "stars": 526,
+            "stars": 525,
             "topics": [
               "api",
               "demo",
@@ -1882,7 +1882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:36:16.580Z",
+    "last_updated": "2026-10-07T07:19:00.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)",
@@ -1894,7 +1894,7 @@
       "open_issues": 15,
       "owner": "denji",
       "repo": "awesome-http-benchmark",
-      "stars": 3778,
+      "stars": 3779,
       "topics": [
         "awesome",
         "awesome-list",
