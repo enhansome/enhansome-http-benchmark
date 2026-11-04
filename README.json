@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40426,
+            "stars": 40425,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T13:44:46Z",
-            "open_issues": 766,
+            "last_commit": "2026-11-03T17:19:26Z",
+            "open_issues": 764,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32112,
+            "stars": 32124,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 125,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25237,
+            "stars": 25240,
             "topics": [
               "benchmarking",
               "go",
@@ -97,7 +97,7 @@
             "open_issues": 192,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20752,
+            "stars": 20757,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -118,7 +118,7 @@
             "open_issues": 59,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10653,
+            "stars": 10655,
             "topics": [
               "benchmark",
               "cli",
@@ -149,7 +149,7 @@
             "open_issues": 59,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8535,
+            "stars": 8536,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -170,7 +170,7 @@
             "open_issues": 19,
             "owner": "getanteon",
             "repo": "anteon",
-            "stars": 8513,
+            "stars": 8514,
             "topics": [
               "ddosify",
               "docker",
@@ -203,7 +203,7 @@
             "open_issues": 30,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6849,
+            "stars": 6850,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -258,7 +258,7 @@
             "open_issues": 20,
             "owner": "six-ddc",
             "repo": "plow",
-            "stars": 4516,
+            "stars": 4515,
             "topics": [
               "apachebench",
               "cli",
@@ -544,8 +544,8 @@
             "id": 244303246,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T07:40:47Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-04T07:34:20Z",
+            "open_issues": 21,
             "owner": "tag1consulting",
             "repo": "goose",
             "stars": 1014,
@@ -786,7 +786,7 @@
             "open_issues": 1,
             "owner": "lighttpd",
             "repo": "weighttp",
-            "stars": 365,
+            "stars": 366,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -992,7 +992,7 @@
             "open_issues": 0,
             "owner": "sdogruyol",
             "repo": "cryload",
-            "stars": 218,
+            "stars": 217,
             "topics": [
               "benchmark",
               "ci-cd",
@@ -1298,11 +1298,11 @@
             "id": 203587744,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T09:16:29Z",
-            "open_issues": 885,
+            "last_commit": "2026-11-04T05:41:53Z",
+            "open_issues": 884,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80726,
+            "stars": 80739,
             "topics": [
               "api",
               "api-client",
@@ -1338,11 +1338,11 @@
             "id": 569041,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T22:47:09Z",
-            "open_issues": 84,
+            "last_commit": "2026-11-04T07:22:40Z",
+            "open_issues": 83,
             "owner": "curl",
             "repo": "curl",
-            "stars": 43362,
+            "stars": 43372,
             "topics": [
               "c",
               "client",
@@ -1381,10 +1381,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2024-12-17T17:30:35Z",
-            "open_issues": 360,
+            "open_issues": 362,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38688,
+            "stars": 38691,
             "topics": [
               "api",
               "api-client",
@@ -1423,42 +1423,12 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T07:08:10Z",
-            "open_issues": 420,
+            "open_issues": 424,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 36025,
+            "stars": 36029,
             "topics": [
               "jq"
-            ]
-          },
-          "first_seen": "2026-08-28T12:57:44.372Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hurl",
-          "description": "Hurl is a command line tool that runs HTTP requests defined in a simple plain text format",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Hurl, run and test HTTP requests with plain text.",
-            "homepage": "https://hurl.dev",
-            "id": 290243101,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-03T03:03:02Z",
-            "open_issues": 201,
-            "owner": "Orange-OpenSource",
-            "repo": "hurl",
-            "stars": 19295,
-            "topics": [
-              "api-testing",
-              "cli",
-              "curl",
-              "http",
-              "http-client",
-              "integration-testing",
-              "testing",
-              "testing-tools"
             ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -1475,11 +1445,11 @@
             "id": 449649393,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T07:54:09Z",
-            "open_issues": 837,
+            "last_commit": "2026-11-04T07:32:42Z",
+            "open_issues": 840,
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 19191,
+            "stars": 19319,
             "topics": [
               "agentic-ai",
               "ai-testing-tool",
@@ -1494,6 +1464,36 @@
               "testing",
               "testing-library",
               "testing-tool",
+              "testing-tools"
+            ]
+          },
+          "first_seen": "2026-08-28T12:57:44.372Z"
+        },
+        {
+          "node_type": "item",
+          "title": "hurl",
+          "description": "Hurl is a command line tool that runs HTTP requests defined in a simple plain text format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hurl, run and test HTTP requests with plain text.",
+            "homepage": "https://hurl.dev",
+            "id": 290243101,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-04T03:03:17Z",
+            "open_issues": 200,
+            "owner": "Orange-OpenSource",
+            "repo": "hurl",
+            "stars": 19299,
+            "topics": [
+              "api-testing",
+              "cli",
+              "curl",
+              "http",
+              "http-client",
+              "integration-testing",
+              "testing",
               "testing-tools"
             ]
           },
@@ -1539,7 +1539,7 @@
             "open_issues": 39,
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8165,
+            "stars": 8167,
             "topics": [
               "api-testing",
               "cli",
@@ -1591,7 +1591,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-05T15:46:57Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "marmelab",
             "repo": "awesome-rest",
             "stars": 3923,
@@ -1639,7 +1639,7 @@
             "open_issues": 5,
             "owner": "stepci",
             "repo": "awesome-api-clients",
-            "stars": 1117,
+            "stars": 1118,
             "topics": [
               "api-client",
               "api-rest",
@@ -1668,7 +1668,7 @@
             "open_issues": 6,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 919,
+            "stars": 923,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -1777,10 +1777,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T09:18:56Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 296,
+            "stars": 322,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -1838,7 +1838,7 @@
             "open_issues": 12,
             "owner": "hougesen",
             "repo": "hitt",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "api-testing",
               "cli",
@@ -1882,7 +1882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T07:59:12.951Z",
+    "last_updated": "2026-11-04T07:34:34.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)",
