@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40424,
+            "stars": 40426,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-09T15:06:27Z",
-            "open_issues": 761,
+            "last_commit": "2026-11-10T15:09:08Z",
+            "open_issues": 760,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32241,
+            "stars": 32257,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 125,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25244,
+            "stars": 25247,
             "topics": [
               "benchmarking",
               "go",
@@ -97,7 +97,7 @@
             "open_issues": 192,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20774,
+            "stars": 20778,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -118,7 +118,7 @@
             "open_issues": 59,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10665,
+            "stars": 10668,
             "topics": [
               "benchmark",
               "cli",
@@ -318,7 +318,7 @@
             "open_issues": 81,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3739,
+            "stars": 3738,
             "topics": [
               "go",
               "golang",
@@ -378,7 +378,7 @@
             "open_issues": 42,
             "owner": "fcsonline",
             "repo": "drill",
-            "stars": 2313,
+            "stars": 2315,
             "topics": [
               "http",
               "jmeter",
@@ -406,7 +406,7 @@
             "open_issues": 175,
             "owner": "PragmaticFlow",
             "repo": "NBomber",
-            "stars": 2247,
+            "stars": 2246,
             "topics": [
               "csharp",
               "dotnet",
@@ -455,7 +455,7 @@
             "open_issues": 3,
             "owner": "shekyan",
             "repo": "slowhttptest",
-            "stars": 1656,
+            "stars": 1658,
             "topics": [
               "performance-metrics",
               "security-scanner",
@@ -527,7 +527,7 @@
             "open_issues": 23,
             "owner": "tag1consulting",
             "repo": "goose",
-            "stars": 1018,
+            "stars": 1020,
             "topics": [
               "goose",
               "http",
@@ -579,7 +579,7 @@
             "open_issues": 7,
             "owner": "rogerwelin",
             "repo": "cassowary",
-            "stars": 811,
+            "stars": 812,
             "topics": [
               "cli",
               "cross-platform",
@@ -613,7 +613,7 @@
             "open_issues": 9,
             "owner": "h2non",
             "repo": "baloo",
-            "stars": 778,
+            "stars": 779,
             "topics": [
               "assert",
               "expectations",
@@ -643,7 +643,7 @@
             "open_issues": 18,
             "owner": "lnx-search",
             "repo": "rewrk",
-            "stars": 586,
+            "stars": 587,
             "topics": [
               "benchmark",
               "http",
@@ -666,7 +666,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-25T09:05:59Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "tarekziade",
             "repo": "molotov",
             "stars": 483,
@@ -1299,10 +1299,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-05T08:16:25Z",
-            "open_issues": 891,
+            "open_issues": 892,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80771,
+            "stars": 80777,
             "topics": [
               "api",
               "api-client",
@@ -1338,11 +1338,11 @@
             "id": 569041,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T08:27:21Z",
-            "open_issues": 123,
+            "last_commit": "2026-11-10T18:28:24Z",
+            "open_issues": 113,
             "owner": "curl",
             "repo": "curl",
-            "stars": 43459,
+            "stars": 43470,
             "topics": [
               "c",
               "client",
@@ -1384,7 +1384,7 @@
             "open_issues": 362,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38705,
+            "stars": 38709,
             "topics": [
               "api",
               "api-client",
@@ -1426,7 +1426,7 @@
             "open_issues": 435,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 36091,
+            "stars": 36100,
             "topics": [
               "jq"
             ]
@@ -1445,11 +1445,11 @@
             "id": 449649393,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T08:06:32Z",
-            "open_issues": 855,
+            "last_commit": "2026-11-11T07:43:22Z",
+            "open_issues": 856,
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 19644,
+            "stars": 19700,
             "topics": [
               "agentic-ai",
               "ai-testing-tool",
@@ -1481,11 +1481,11 @@
             "id": 290243101,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T03:02:54Z",
+            "last_commit": "2026-11-11T03:02:50Z",
             "open_issues": 202,
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19314,
+            "stars": 19322,
             "topics": [
               "api-testing",
               "cli",
@@ -1495,6 +1495,34 @@
               "integration-testing",
               "testing",
               "testing-tools"
+            ]
+          },
+          "first_seen": "2026-08-28T12:57:44.372Z"
+        },
+        {
+          "node_type": "item",
+          "title": "xh",
+          "description": "Yet another HTTPie clone, written in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Friendly and fast tool for sending HTTP requests",
+            "homepage": null,
+            "id": 294521053,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-11-06T10:01:35Z",
+            "open_issues": 39,
+            "owner": "ducaale",
+            "repo": "xh",
+            "stars": 8187,
+            "topics": [
+              "api-testing",
+              "cli",
+              "developer-tools",
+              "http-client",
+              "rust",
+              "terminal"
             ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -1525,34 +1553,6 @@
         },
         {
           "node_type": "item",
-          "title": "xh",
-          "description": "Yet another HTTPie clone, written in",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Friendly and fast tool for sending HTTP requests",
-            "homepage": null,
-            "id": 294521053,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-11-06T10:01:35Z",
-            "open_issues": 39,
-            "owner": "ducaale",
-            "repo": "xh",
-            "stars": 8176,
-            "topics": [
-              "api-testing",
-              "cli",
-              "developer-tools",
-              "http-client",
-              "rust",
-              "terminal"
-            ]
-          },
-          "first_seen": "2026-08-28T12:57:44.372Z"
-        },
-        {
-          "node_type": "item",
           "title": "httpstat",
           "description": "It's like curl -v, with colours",
           "children": [],
@@ -1567,7 +1567,7 @@
             "open_issues": 9,
             "owner": "reorx",
             "repo": "httpstat",
-            "stars": 6220,
+            "stars": 6221,
             "topics": [
               "cli",
               "curl",
@@ -1591,7 +1591,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-05T15:46:57Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "marmelab",
             "repo": "awesome-rest",
             "stars": 3925,
@@ -1664,11 +1664,11 @@
             "id": 1232322871,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T08:01:58Z",
+            "last_commit": "2026-11-10T19:51:13Z",
             "open_issues": 7,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 850,
+            "stars": 852,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -1738,34 +1738,6 @@
         },
         {
           "node_type": "item",
-          "title": "jaggr",
-          "description": "JSON Aggregation CLI, Jaggr can be used to integrate vegeta with jplot, written in Go ()",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "JSON Aggregation CLI",
-            "homepage": null,
-            "id": 124478010,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2024-08-29T11:04:00Z",
-            "open_issues": 2,
-            "owner": "rs",
-            "repo": "jaggr",
-            "stars": 484,
-            "topics": [
-              "cli",
-              "golang",
-              "jplot",
-              "json",
-              "monitoring",
-              "statistics"
-            ]
-          },
-          "first_seen": "2026-08-28T12:57:44.372Z"
-        },
-        {
-          "node_type": "item",
           "title": "OrcaReplay",
           "description": "Records the HTTP traffic of an AI coding agent and serves the recording back, so the same run re-executes with no model called, written in",
           "children": [],
@@ -1780,7 +1752,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 479,
+            "stars": 509,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -1803,6 +1775,34 @@
         },
         {
           "node_type": "item",
+          "title": "jaggr",
+          "description": "JSON Aggregation CLI, Jaggr can be used to integrate vegeta with jplot, written in Go ()",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "JSON Aggregation CLI",
+            "homepage": null,
+            "id": 124478010,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2024-08-29T11:04:00Z",
+            "open_issues": 2,
+            "owner": "rs",
+            "repo": "jaggr",
+            "stars": 485,
+            "topics": [
+              "cli",
+              "golang",
+              "jplot",
+              "json",
+              "monitoring",
+              "statistics"
+            ]
+          },
+          "first_seen": "2026-08-28T12:57:44.372Z"
+        },
+        {
+          "node_type": "item",
           "title": "mrmykey/awesome-http-clients",
           "description": "mrmykey/awesome-http-clients",
           "children": [],
@@ -1814,7 +1814,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-09T08:48:51Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "mrmykey",
             "repo": "awesome-http-clients",
             "stars": 170,
@@ -1882,7 +1882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:28:53.500Z",
+    "last_updated": "2026-11-11T07:48:23.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)",
@@ -1894,7 +1894,7 @@
       "open_issues": 17,
       "owner": "denji",
       "repo": "awesome-http-benchmark",
-      "stars": 3787,
+      "stars": 3786,
       "topics": [
         "awesome",
         "awesome-list",
