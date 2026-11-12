@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-10T15:09:08Z",
-            "open_issues": 760,
+            "last_commit": "2026-11-11T15:03:59Z",
+            "open_issues": 765,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32257,
+            "stars": 32268,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 125,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25247,
+            "stars": 25250,
             "topics": [
               "benchmarking",
               "go",
@@ -97,7 +97,7 @@
             "open_issues": 192,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20778,
+            "stars": 20781,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -114,11 +114,11 @@
             "id": 244377430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-02T07:40:09Z",
+            "last_commit": "2026-11-12T08:12:06Z",
             "open_issues": 59,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10668,
+            "stars": 10678,
             "topics": [
               "benchmark",
               "cli",
@@ -149,7 +149,7 @@
             "open_issues": 58,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8536,
+            "stars": 8538,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -237,7 +237,7 @@
             "open_issues": 106,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4642,
+            "stars": 4643,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -314,8 +314,8 @@
             "id": 106351459,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T13:32:45Z",
-            "open_issues": 81,
+            "last_commit": "2026-11-11T13:32:35Z",
+            "open_issues": 83,
             "owner": "fortio",
             "repo": "fortio",
             "stars": 3738,
@@ -403,7 +403,7 @@
             "language": "CSS",
             "license": null,
             "last_commit": "2026-10-20T13:48:54Z",
-            "open_issues": 175,
+            "open_issues": 176,
             "owner": "PragmaticFlow",
             "repo": "NBomber",
             "stars": 2246,
@@ -523,11 +523,11 @@
             "id": 244303246,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T18:57:46Z",
+            "last_commit": "2026-11-11T15:04:29Z",
             "open_issues": 23,
             "owner": "tag1consulting",
             "repo": "goose",
-            "stars": 1020,
+            "stars": 1021,
             "topics": [
               "goose",
               "http",
@@ -666,7 +666,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-25T09:05:59Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "tarekziade",
             "repo": "molotov",
             "stars": 483,
@@ -1143,7 +1143,7 @@
             "open_issues": 11,
             "owner": "folkertvanheusden",
             "repo": "HTTPing",
-            "stars": 56,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
@@ -1299,10 +1299,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-05T08:16:25Z",
-            "open_issues": 892,
+            "open_issues": 895,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80777,
+            "stars": 80783,
             "topics": [
               "api",
               "api-client",
@@ -1338,11 +1338,11 @@
             "id": 569041,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T18:28:24Z",
-            "open_issues": 113,
+            "last_commit": "2026-11-12T02:17:42Z",
+            "open_issues": 119,
             "owner": "curl",
             "repo": "curl",
-            "stars": 43470,
+            "stars": 43489,
             "topics": [
               "c",
               "client",
@@ -1384,7 +1384,7 @@
             "open_issues": 362,
             "owner": "httpie",
             "repo": "cli",
-            "stars": 38709,
+            "stars": 38711,
             "topics": [
               "api",
               "api-client",
@@ -1423,10 +1423,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T07:08:10Z",
-            "open_issues": 435,
+            "open_issues": 436,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 36100,
+            "stars": 36120,
             "topics": [
               "jq"
             ]
@@ -1445,11 +1445,11 @@
             "id": 449649393,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T07:43:22Z",
-            "open_issues": 856,
+            "last_commit": "2026-11-12T08:21:44Z",
+            "open_issues": 861,
             "owner": "keploy",
             "repo": "keploy",
-            "stars": 19700,
+            "stars": 19720,
             "topics": [
               "agentic-ai",
               "ai-testing-tool",
@@ -1481,11 +1481,11 @@
             "id": 290243101,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T03:02:50Z",
+            "last_commit": "2026-11-11T12:51:34Z",
             "open_issues": 202,
             "owner": "Orange-OpenSource",
             "repo": "hurl",
-            "stars": 19322,
+            "stars": 19333,
             "topics": [
               "api-testing",
               "cli",
@@ -1515,7 +1515,7 @@
             "open_issues": 39,
             "owner": "ducaale",
             "repo": "xh",
-            "stars": 8187,
+            "stars": 8196,
             "topics": [
               "api-testing",
               "cli",
@@ -1540,7 +1540,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-03-10T05:06:56Z",
-            "open_issues": 46,
+            "open_issues": 39,
             "owner": "curlconverter",
             "repo": "curlconverter",
             "stars": 8177,
@@ -1594,7 +1594,7 @@
             "open_issues": 12,
             "owner": "marmelab",
             "repo": "awesome-rest",
-            "stars": 3925,
+            "stars": 3926,
             "topics": [
               "awesome",
               "rest"
@@ -1664,11 +1664,11 @@
             "id": 1232322871,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T19:51:13Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-11T19:07:00Z",
+            "open_issues": 6,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 852,
+            "stars": 854,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -1693,6 +1693,43 @@
             ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OrcaReplay",
+          "description": "Records the HTTP traffic of an AI coding agent and serves the recording back, so the same run re-executes with no model called, written in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
+            "homepage": "http://www.orcarouter.ai",
+            "id": 1350419329,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-01T09:18:56Z",
+            "open_issues": 3,
+            "owner": "Continuum-AI-Corp",
+            "repo": "OrcaReplay",
+            "stars": 539,
+            "topics": [
+              "agent-debugging",
+              "agent-tracing",
+              "ai-agent",
+              "ai-agents",
+              "ai-debugger",
+              "ai-debugging",
+              "anthropic",
+              "llm",
+              "llm-agents",
+              "llm-evaluation",
+              "llm-observability",
+              "mcp",
+              "observability",
+              "openai",
+              "orcarouter"
+            ]
+          },
+          "first_seen": "2026-09-12T05:54:56.867Z"
         },
         {
           "node_type": "item",
@@ -1735,43 +1772,6 @@
             ]
           },
           "first_seen": "2026-08-28T12:57:44.372Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OrcaReplay",
-          "description": "Records the HTTP traffic of an AI coding agent and serves the recording back, so the same run re-executes with no model called, written in",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
-            "homepage": "http://www.orcarouter.ai",
-            "id": 1350419329,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-01T09:18:56Z",
-            "open_issues": 3,
-            "owner": "Continuum-AI-Corp",
-            "repo": "OrcaReplay",
-            "stars": 509,
-            "topics": [
-              "agent-debugging",
-              "agent-tracing",
-              "ai-agent",
-              "ai-agents",
-              "ai-debugger",
-              "ai-debugging",
-              "anthropic",
-              "llm",
-              "llm-agents",
-              "llm-evaluation",
-              "llm-observability",
-              "mcp",
-              "observability",
-              "openai",
-              "orcarouter"
-            ]
-          },
-          "first_seen": "2026-09-12T05:54:56.867Z"
         },
         {
           "node_type": "item",
@@ -1882,7 +1882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T07:48:23.533Z",
+    "last_updated": "2026-11-12T08:25:08.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)",
